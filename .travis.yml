@@ -1,0 +1,28 @@
+# https://vuepress.vuejs.org/guide/deploy.html#github-pages
+
+language: node_js
+
+node_js:
+  - '12'
+
+install:
+  - npm i -g vuepress
+
+script:
+  - npm install
+  - npm run build
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  local_dir: docs/.vuepress/dist
+  github-token: "$GITHUB_TOKEN"
+  repo: flutter-osaka/docs
+  keep-history: true
+  target-branch: gh-pages
+  on:
+    branch: master
+
+env:
+  matrix:
+    - secure: SjWyCfeI3Vf9BvilLLPoB3yNl1uSeNtMQbAyqmnLvOV7d7WR0yQ3f0ezmxp943vsFZDp49D67feXj510vSQMcgOAuKRI4geS3UEF0kKgtcfieMeM0dVwvSW5D5p716Ik9orXpp2c20vCab4/EU5xo2sqyG4U7+W2mXvdFoRIxd0Dhp8Y812iX9Md1BTpwegiLdo7+nUo4kf8toX1gkkB1wkJu8eDOOhReGNtX25O0d/odd3TX0F6fQP9GrmgWAboQWjD5zKH/psqJETtUOej4b79+2THzcDri9QTUJ3pMuKtZjRgd3n6An+iZxYrHSc6lRq1USQQ9dIU+he8J4fu4u/G0uTMOKh+VU26zqb/gn0XLlvka3wtZg3SbAJXfOGCUM1DF7wHCh6I7x541OrPgJm2AXPY9TFIv56zX7AnJ4d4bvNmXtbNT6j2o/DDn3ScPiUtZohLtxBg3oi1BWa0SlFGFYQO2GFqK0wjfSiM+MP9CyN77h8nFOUZ58lNqG+l6gl7Xq5Qz0xETLoc82sHuhEQQHtI4rVZSIZSiXD2rxmeU/fxLUSJYgor0kdMJ864s6EvnI/yXSum9xpkGWvmAXObDubvMY63oJTBCUeAtccrfA8RDcGGrCfq+ZmMvPfkU8o+pC3vIGpBCttzUR1PMJfa+gvdvAUC8VAPpQLYfWs=
