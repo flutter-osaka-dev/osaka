@@ -29,7 +29,7 @@ module.exports = {
       { property: 'og:description', content: `${community}でご紹介のあった資料を中心に記録しています。` },
     ],
   ],
-  base: '/flutter-osaka/',
+  base: '/',
   docsDir: 'docs',
   serviceWorker: true,
   themeConfig: {
