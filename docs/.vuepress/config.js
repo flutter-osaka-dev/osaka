@@ -36,14 +36,30 @@ module.exports = {
     repo: 'flutter-osaka/docs',
     editLinks: false,
     docsDir: 'docs',
-    nav: [],
+    nav: [
+      {
+        text: 'Handson',
+        link: '/handson/hinagata',
+      }
+    ],
+    sidebarDepth: 3,
     sidebar: {
       '/': [
         {
-          title: 'Meetup',
+          title: 'Flutter Osaka',
           collapsable: false,
           children: [
-            ''
+            '/',
+            '/handson/hinagata'
+          ]
+        }
+      ],
+      '/handson/': [
+        {
+          title: 'Handson',
+          collapsable: false,
+          children: [
+            '/hinagata'
           ]
         }
       ]
