@@ -38,7 +38,11 @@ module.exports = {
     docsDir: 'docs',
     nav: [
       {
-        text: 'Handson',
+        text: 'ミートアップ',
+        link: '/meetup/osaka',
+      },
+      {
+        text: 'ハンズオン',
         link: '/handson/hinagata',
       }
     ],
@@ -50,13 +54,23 @@ module.exports = {
           collapsable: false,
           children: [
             '/',
+            '/meetup/osaka',
             '/handson/hinagata'
+          ]
+        }
+      ],
+      '/meetup/': [
+        {
+          title: 'ミートアップ',
+          collapsable: false,
+          children: [
+            '/osaka'
           ]
         }
       ],
       '/handson/': [
         {
-          title: 'Handson',
+          title: 'ハンズオン',
           collapsable: false,
           children: [
             '/hinagata'

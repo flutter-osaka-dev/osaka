@@ -3,15 +3,13 @@ home: false
 footer: Created © 2019 jiyuujin LAB. All Rights Reserved.
 ---
 
-# Flutter Osaka
+# コミュニティ
 
 https://flutter-jp.connpass.com/
 
-## 雛形リポジトリ
+👉 [登壇スライドを確認します](./meetup/osaka.md)
 
-[YujiOnishi/dictionary_hands_on_hinagata](./handson/hinagata.md)
-
-[Flutter Handson Osaka #1](https://flutter-jp.connpass.com/event/155693/) (2020/01/29) / [Flutter Handson Osaka #2](https://flutter-jp.connpass.com/event/158560/) (2020/20/08) で使っています
+👉 [リポジトリを展開します](./handson/hinagata.md)
 
 ## 困ったら。。
 
