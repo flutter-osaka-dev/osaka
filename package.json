@@ -7,6 +7,7 @@
     "build": "vuepress build docs"
   },
   "dependencies": {
+    "vue-youtube": "^1.4.0",
     "vuepress": "next"
   }
 }
