@@ -1,4 +1,4 @@
-# picture_edit_hands_on
+# Picture Edit
 
 当日までに以下の準備を進めてください。
 
