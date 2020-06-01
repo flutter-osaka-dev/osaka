@@ -29,6 +29,12 @@ module.exports = {
       { property: 'og:description', content: `${community}でご紹介のあった資料を中心に記録しています。` },
     ],
   ],
+  script: [
+    {
+      async: true,
+      src: '//www.youtube.com/iframe_api'
+    },
+  ],
   base: '/',
   docsDir: 'docs',
   serviceWorker: true,
