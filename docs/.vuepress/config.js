@@ -61,7 +61,8 @@ module.exports = {
           children: [
             '/',
             '/meetup/osaka',
-            '/handson/hinagata'
+            '/handson/dictionary',
+            '/handson/picture_edit'
           ]
         }
       ],
@@ -79,7 +80,8 @@ module.exports = {
           title: 'ハンズオン',
           collapsable: false,
           children: [
-            '/hinagata'
+            '/dictionary',
+            '/picture_edit'
           ]
         }
       ]
