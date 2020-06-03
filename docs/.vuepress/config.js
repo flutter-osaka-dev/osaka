@@ -49,7 +49,7 @@ module.exports = {
       },
       {
         text: 'ハンズオン',
-        link: '/handson/hinagata',
+        link: '/handson/dictionary',
       }
     ],
     sidebarDepth: 3,
