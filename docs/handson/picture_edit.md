@@ -1,14 +1,16 @@
 # Picture Edit
 
-当日までに以下の準備を進めてください。
+::: tip 配信動画を見られます！
 
+2020/06/20 オンラインで開催した Flutter Handson Osaka [#4](https://flutter-jp.connpass.com/event/175920/) で当日配信した動画はこちらからご覧になれます。[レジュメ](https://github.com/YujiOnishi/flutter_picture_edit_hands_on/) と合わせてご確認いただければ、と思います。
 
+[https://www.youtube.com/watch?v=0H4hc291t5A](https://www.youtube.com/watch?v=0H4hc291t5A)
 
-当日使うレジュメ：https://github.com/YujiOnishi/flutter_picture_edit_hands_on/
-
-
+:::
 
 ## 開発環境に必要なもの一覧
+
+当日までに以下の準備を進めてください。
 
 AndroidStudio…プログラムを書くために必要
 
