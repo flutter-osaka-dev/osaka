@@ -54,6 +54,8 @@ https://storage.googleapis.com/flutter_infra/releases/stable/windows/flutter_win
 
 2-2. 2-1でダウンロードした `C:\src` 直下に解凍
 
+2-3.binフォルダを環境変数に追加
+
 ### 3. AndroidStudioのインストール
 
 3-1. [DOWNLOAD ANDROID STUDIO](https://developer.android.com/studio/?hl=ja)より任意の場所に.exeをダウンロード
