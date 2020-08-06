@@ -14,7 +14,7 @@ module.exports = {
     ],
     [
       'meta',
-      { property: 'og:url', content: 'https://nekohack.github.io/v-kansai' },
+      { property: 'og:url', content: 'https://flutter-osaka.netlify.app/' },
     ],
     [
       'meta',
