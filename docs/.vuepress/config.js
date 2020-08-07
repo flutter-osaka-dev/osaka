@@ -46,10 +46,6 @@ module.exports = {
       {
         text: 'ミートアップ',
         link: '/meetup/osaka',
-      },
-      {
-        text: 'ハンズオン',
-        link: '/handson/dictionary',
       }
     ],
     sidebarDepth: 3,

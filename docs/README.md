@@ -5,11 +5,7 @@ footer: Created © 2019 jiyuujin LAB. All Rights Reserved.
 
 # コミュニティ
 
-https://flutter-jp.connpass.com/
-
-👉 [登壇スライドを確認します](./meetup/osaka.md)
-
-👉 [リポジトリを展開します](./handson/hinagata.md)
+[Flutter Japan User Group - connpass](https://flutter-jp.connpass.com/)
 
 ## 困ったら。。
 
