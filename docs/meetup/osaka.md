@@ -1,5 +1,18 @@
 # ミートアップ
 
+## Dart Meetup Osaka #1
+2020/08/07 (Fri) / [sli.do](https://app.sli.do/event/1cs5vqx8)
+
+<youtube video-id="e79QGqUDfw4" />
+
+<!--
+[https://youtu.be/e79QGqUDfw4](https://youtu.be/e79QGqUDfw4)
+-->
+
+- [Dart Tips + ML Complete Features](https://speakerdeck.com/korodroid/dart-meetup-osaka-number-1-dart-tips-plus-ml-complete-features)
+- [Dart言語は進歩的？ Dart言語の進歩状況](https://drive.google.com/file/d/1zi2QUSG2Rn5L06A9Gh7Myasmf20sKLu_/view)
+- [Flutter+Providerでウィジェットのテストを書く](https://speakerdeck.com/osamtimizer/widget-test-with-provider)
+
 ## Flutter Meetup Osaka #3
 2020/05/22 (Fri) / [sli.do](https://app.sli.do/event/8xodjmjf)
 
