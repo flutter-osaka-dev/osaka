@@ -59,7 +59,8 @@ module.exports = {
             '/meetup/osaka',
             '/handson/basic',
             '/handson/dictionary',
-            '/handson/picture_edit'
+            '/handson/picture_edit',
+            '/handson/webrtc'
           ]
         }
       ],
@@ -79,7 +80,8 @@ module.exports = {
           children: [
             '/basic',
             '/dictionary',
-            '/picture_edit'
+            '/picture_edit',
+            '/handson/webrtc'
           ]
         }
       ]
