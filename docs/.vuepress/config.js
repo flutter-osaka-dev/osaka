@@ -81,7 +81,7 @@ module.exports = {
             '/basic',
             '/dictionary',
             '/picture_edit',
-            '/handson/webrtc'
+            '/webrtc'
           ]
         }
       ]
