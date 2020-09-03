@@ -1,5 +1,16 @@
 # 通話アプリ
 
+::: tip 配信動画を見られます！
+
+2020/08/21 オンラインで開催した Flutter Handson Osaka [#5](https://flutter-jp.connpass.com/event/180326/) で当日配信した動画はこちらからご覧になれます。[レジュメ](https://github.com/YujiOnishi/WebRtc_flutter_handson_handout/) と [解説書](https://docs.google.com/spreadsheets/d/1LvBX3iR5ZOpBjU6mrn1zf0us4KTxKG51ZEKxSl0wTBY/edit#gid=2031444284https://docs.google.com/spreadsheets/d/1LvBX3iR5ZOpBjU6mrn1zf0us4KTxKG51ZEKxSl0wTBY/edit#gid=2031444284) と合わせてご確認いただければ、と思います。
+
+<youtube video-id="tfoLJdzAWfk" />
+
+<!--
+[https://www.youtube.com/watch?v=tfoLJdzAWfk](https://www.youtube.com/watch?v=tfoLJdzAWfk)
+-->
+:::
+
 ## 開発環境に必要なもの一覧
 
 - AndroidStudio.. プログラムを書くために必要
