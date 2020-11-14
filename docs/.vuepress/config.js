@@ -1,16 +1,14 @@
-const community = 'Flutter Osaka'
-
 module.exports = {
-  title: community,
-  description: `【非公式】${community} ドキュメント一覧`,
+  title: `Flutter Osaka | ドキュメント一覧`,
+  description: `ミートアップやハンズオンでご紹介のあった資料を中心に記録しています。`,
   head: [
     [
       'meta',
-      { hid: 'description', name: 'description', content: `${community}でご紹介のあった資料を中心に記録しています。` },
+      { hid: 'description', name: 'description', content: `ミートアップやハンズオンでご紹介のあった資料を中心に記録しています。` },
     ],
     [
       'meta',
-      { property: 'og:site_name', content: community },
+      { property: 'og:site_name', content: `Flutter Osaka | ドキュメント一覧` },
     ],
     [
       'meta',
@@ -22,11 +20,11 @@ module.exports = {
     ],
     [
       'meta',
-      { property: 'og:title', content: `【非公式】${community} ドキュメント一覧` },
+      { property: 'og:title', content: `Flutter Osaka | ドキュメント一覧` },
     ],
     [
       'meta',
-      { property: 'og:description', content: `${community}でご紹介のあった資料を中心に記録しています。` },
+      { property: 'og:description', content: `ミートアップやハンズオンでご紹介のあった資料を中心に記録しています。` },
     ],
   ],
   script: [
