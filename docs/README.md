@@ -1,6 +1,6 @@
 ---
 home: false
-footer: Created © 2019 jiyuujin LAB. All Rights Reserved.
+footer: Created © 2020 Flutter Japan User Group - Flutter Osaka. All Rights Reserved.
 ---
 
 # コミュニティ
