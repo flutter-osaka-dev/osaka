@@ -4,10 +4,17 @@
   "private": true,
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "lint": "eslint ./ --ext js",
+    "lint:fix": "eslint ./ --ext js --fix"
   },
   "dependencies": {
     "vue-youtube": "1.4.0",
     "vuepress": "next"
+  },
+  "devDependencies": {
+    "@nekohack/eslint-config": "^0.3.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.13.0"
   }
 }
