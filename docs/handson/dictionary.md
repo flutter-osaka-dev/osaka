@@ -1,19 +1,16 @@
 # 辞書アプリ
 
-当日までに以下の準備を進めてください。
+<Environment />
 
-当日使うレジュメ: https://github.com/YujiOnishi/dictionary_hands_on_hinagata
-
-## 開発環境に必要なもの一覧
-
-- AndroidStudio.. プログラムを書くために必要
-- Flutter.. 今回の主役。モバイルアプリ作成のために必要
-
-## Flutter環境構築
+### Flutter環境構築
 
 環境構築する場合は [Flutter環境構築](/handson/basic) を確認しましょう
 
-※flutterでAndroidのシミュレーターが確認できる方はflutterの項目を飛ばしてください※
+※ FlutterでAndroidのシミュレータが確認できる方はFlutterの項目を飛ばしてください
+
+### 当日までに以下の準備を進めてください。
+
+当日使うレジュメ: [https://github.com/YujiOnishi/dictionary_hands_on_hinagata/](https://github.com/YujiOnishi/dictionary_hands_on_hinagata/)
 
 ## Firebase
 
