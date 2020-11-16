@@ -58,7 +58,8 @@ module.exports = {
             `/handson/basic`,
             `/handson/dictionary`,
             `/handson/picture_edit`,
-            `/handson/webrtc`
+            `/handson/webrtc`,
+            `/handson/flutter_for_web`
           ]
         }
       ],
@@ -79,7 +80,8 @@ module.exports = {
             `/basic`,
             `/dictionary`,
             `/picture_edit`,
-            `/webrtc`
+            `/webrtc`,
+            `/flutter_for_web`
           ]
         }
       ]
