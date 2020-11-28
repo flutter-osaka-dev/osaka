@@ -10,6 +10,7 @@
 -->
 
 - [Flutterアプリ開発高速化Tips (プラグイン編)](https://speakerdeck.com/korodroid/flutterapurikai-fa-gao-su-hua-tips-puraguinbian)
+- [フラッター開発におけるシークレット情報取扱考察](https://www2.slideshare.net/cch-robo/ss-239527695)
 - [ほんとうは恐ろしいImage.network](https://docs.google.com/presentation/d/1eiMiV2B9L-3ChE16ZskUWvxuW5EZdLEVuPEi2y0PI2g/edit)
 - [多分こうやったらよさそう Navigator 2.0](https://docs.google.com/presentation/d/1YRczr1NzuVzfst_fbjhHb_JF0BujXzyQ0-3A9AWJPFw/edit)
 
