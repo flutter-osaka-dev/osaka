@@ -1,5 +1,18 @@
 # ミートアップ
 
+## Flutter Meetup Osaka #4
+2020/11/27 (Fri) / [sli.do](https://app.sli.do/event/3szqbwy1)
+
+<youtube video-id="lU4T05erc84" />
+
+<!--
+[https://youtu.be/lU4T05erc84](https://youtu.be/lU4T05erc84)
+-->
+
+- [Flutterアプリ開発高速化Tips (プラグイン編)](https://speakerdeck.com/korodroid/flutterapurikai-fa-gao-su-hua-tips-puraguinbian)
+- [ほんとうは恐ろしいImage.network](https://docs.google.com/presentation/d/1eiMiV2B9L-3ChE16ZskUWvxuW5EZdLEVuPEi2y0PI2g/edit)
+- [多分こうやったらよさそう Navigator 2.0](https://docs.google.com/presentation/d/1YRczr1NzuVzfst_fbjhHb_JF0BujXzyQ0-3A9AWJPFw/edit)
+
 ## Dart Meetup Osaka #1
 2020/08/07 (Fri) / [sli.do](https://app.sli.do/event/1cs5vqx8)
 
