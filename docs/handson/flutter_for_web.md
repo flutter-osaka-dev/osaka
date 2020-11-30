@@ -22,15 +22,14 @@
 
 ## 環境構築
 
-※ FlutterでFlutter for Webの起動が確認できる方は【アプリ起動】の項目を飛ばしてください
+※ FlutterでFlutter for Webの起動が確認できる方は【アプリ起動】の項目に飛んでください。
 
 
 
 ### Windowsをお使いの方
 
-環境構築する場合は [Flutter環境構築](/handson/basic) を確認しましょう (以下に示す `1. Flutter SDKのダウンロード` から `5. Flutterプラグインのインストール` まではリンクと同じ内容です)
 
-※ FlutterでAndroidのシミュレータが確認できる方はFlutterの項目を飛ばしてください
+※ FlutterでFlutter for Webが確認できる方はFlutterの項目を飛ばしてください
 
 1. Flutter SDKのダウンロード
 2. flutterを起動する
