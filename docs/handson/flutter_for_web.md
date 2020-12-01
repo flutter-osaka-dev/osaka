@@ -224,13 +224,13 @@ flutter config --enable-web
 
 1-2. デスクトップに保存し、解凍する
 
-1-3. AndroidStudioを起動（Macの方はIntelliJIDEA）、ダウンロードしたフォルダを開く
+1-3. AndroidStudioを起動、ダウンロードしたフォルダを開く
 
 
 
 ### 2. Packages get
 
-2-1. AndroidStudio（Macの方はIntelliJIDEA）にて、フォルダ内の pubspec.yaml を開く
+2-1. AndroidStudioにて、フォルダ内の pubspec.yaml を開く
 
 2-2. 画面上の `Packages get` を押下する
 
