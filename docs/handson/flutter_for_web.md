@@ -112,7 +112,7 @@ flutter config --enable-web
 
 
 
-#### ・macの方
+### macをお使いの方
 
 1. Flutter SDKのダウンロード＆解凍
 2. パスを通す
