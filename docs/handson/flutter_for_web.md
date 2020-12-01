@@ -22,14 +22,11 @@
 
 ## 環境構築
 
-※ FlutterでFlutter for Webの起動が確認できる方は【アプリ起動】の項目に飛んでください。
+※flutter(ver1.23.0-18.1.pre)でFlutter for Webの起動が確認できる方は【アプリ起動】の項目に飛んでください※
 
 
 
 ### Windowsをお使いの方
-
-
-※ FlutterでFlutter for Webが確認できる方はFlutterの項目を飛ばしてください
 
 1. Flutter SDKのダウンロード
 2. flutterを起動する
@@ -115,89 +112,102 @@ flutter config --enable-web
 
 
 
-### Macをお使いの方
+#### ・macの方
 
-**以下の環境構築は Flutter Osaka のスタッフである兼高さんの多大なご協力がありました mm**
-
-兼高さんより提供くださいました [独自自動スクリプトを使った環境構築手順](https://cch-robo.github.io/DevFest-Kyoto-2020/install_flutter_sdk.html#%E7%8B%AC%E8%87%AA%E8%87%AA%E5%8B%95%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89%E6%89%8B%E9%A0%86) を確認しましょう
-
-#### 0. はじめに
-
-スクリプト実行要件は以下となっています。必ずこれらを満たしてから実行してください。
-
-- git コマンドを利用できること。
-- Chrome ブラウザがインストールされていること。
-- MacOSがBig Surであること（Catalinaは未確認。Mojavaでは動きません）
+1. Flutter SDKのダウンロード＆解凍
+2. パスを通す
+3. AndroidStudioのインストール
+4. Flutterプラグインのインストール
+5. Flutter for Webの設定
+   
+   
 
 
+#### 1,Flutter SDKのダウンロード＆解凍
 
-#### 1. 環境構築用のスクリプトダウンロード
+①以下より「Downloads」にダウンロード＆解凍
 
-1-1. 環境構築用のフォルダを用意する
+https://storage.googleapis.com/flutter_infra/releases/beta/macos/flutter_macos_1.23.0-18.1.pre-beta.zip
 
-1-2. Desktopに `handson` フォルダを新規作成
+※バージョンによっては上手くいかない可能性があるため、上記URLよりダウンロードをお願いします。
 
-1-3. [スクリプトファイル](https://cch-robo.github.io/DevFest-Kyoto-2020/scripts/flenv.sh) をダウンロード
-
-1-4. 1-1 で作成したフォルダの直下に配置
+※リンク切れなら[こちら](https://flutter.dev/docs/get-started/install/windows)の指示に従ってSDKをダウンロードしてください。
 
 
 
-#### 2. スクリプトを利用して環境をインストール
+②以下コマンドを叩く
 
-2-1. ターミナルを起動し 1-1 で作成した `handson` フォルダに移動
-
-```bash
-cd «スクリプト配置先ディレクトリ»
+```
+mkdir ~/development
 ```
 
-2-2. `flenv.sh` スクリプトに実行権限を付与
+先程のzipを解答してdevelopmentフォルダに移動
+
+
+
+
+#### 2,パスを通す
+
+①bash_profileをviで開く
 
 以下コマンドを叩く
 
-```bash
-chmod +x flenv.sh
+```
+vi ~/.bash_profile
 ```
 
-2-3. インストール
+②以下を追加
+
+```
+export PATH="$PATH:/Users/[User名に置き換えて[]を削除]/development/flutter/bin"
+```
+
+③pathを更新
 
 以下コマンドを叩く
 
+```
+source ~/.bash_profile
+```
+
+
+
+#### 3.AndroidStudioのインストール
+
+①以下より任意の場所にインストールファイルをダウンロード
+
+https://developer.android.com/studio/?hl=ja
+
+②インストールウィザードの指示に従ってインストール
+
+※初回起動時にSDKのインストールウィザードが出るがStandardを選択肢デフォルトの設定でインストール
+
+
+
+#### 4. Flutterプラグインのインストール
+
+※ Flutterプラグインのインストールの際、Dartプラグインもインストールするか尋ねられるので合わせてインストール
+
+① AndroidStudioを起動する。初回起動時にSDKのインストールウィザードが出るがStandardを選択肢デフォルトの設定でインストールAndroidStudioを起動
+
+② `configure` を押下。メニュー一覧が表示されるはずなのでPluginを選択する
+
+③ 検索ボックスから `flutter` と検索し、公式のflutter.ioが提供するFlutterプラグインを選択しインストールを押してFlutterプラグインとDartプラグインをインストール
+
+
+
+#### 5. Flutter for Webの設定
+
+① 以下コマンドを叩き、設定を行う。
+
 ```bash
-./flenv.sh -install
+flutter channel beta
 ```
-
-インストール完了後、`flutter_experience コンソール` が開く
-
-ネットワーク速度に依存するが、およそ20分ほどで、flenv.sh 配置先に flutter_experience ディレクトリが新規作成され、flutter sdk および、flutter for web 設定の実行と dhttpd ツール、IntelliJ IDEA Community Edition、および Dart+Flutter プラグインのインストールが完了。
-
-補足：flenv.sh ファイルは、インストール完了後に flutter_experience ディレクトリに移動。
-
-補足：flutter 体験環境をアンインストールする場合は、flutter_experience ディレクトリでflenv.sh -uninstall を実行。
-
-
-
-#### 3.IntelliJの起動
-
-①コマンドを叩く
-
-インストールが終了しflutter_experienceコンソールが開いたのを確認し、以下コマンドを叩く。
-
-```
-idea
-```
-
-少し待つと起動するので外観などの初期設定を行う。
-
-#### Flutter体験環境を復元
-
-インストール時のターミナルを閉じてから、新たにターミナルを起動した場合は、新たなターミナルで、以下の Flutter 体験環境復元手順を行ってください。
 
 ```bash
-# Flutter体験環境ディレクトリに移動
-cd «スクリプト配置先ディレクトリ»/flutter_experience# flutter 体験環境を復元する
-./flenv.sh -resume
+flutter config --enable-web
 ```
+
 
 
 ## アプリ起動
