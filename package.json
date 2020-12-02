@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "vue-youtube": "1.4.0",
-    "vuepress": "next"
+    "vuepress": "1.7.1"
   },
   "devDependencies": {
     "@nekohack/eslint-config": "^0.3.0",
