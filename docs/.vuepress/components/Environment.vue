@@ -1,6 +1,5 @@
 <template>
   <div>
-    <h2>開発環境に必要なもの一覧</h2>
     <div class="env-list">
       <div class="env-list__item">
         <h3>
@@ -40,6 +39,7 @@ export default {
   align-items: center;
   justify-content: center;
   vertical-align: middle;
+  margin: 4px 0;
   border: 1px solid #ddd;
 }
 

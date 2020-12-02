@@ -1,16 +1,28 @@
 # 辞書アプリ
 
+当日までに以下の準備を進めてください。
+
+[レジュメ](https://github.com/YujiOnishi/dictionary_hands_on_hinagata/)
+
+## 開発環境に必要なもの一覧
+
 <Environment />
+
+## Flutter SDKのダウンロード
+
+#### MacOSをお使いの方は、
+
+<SDKInstall os="macos" version="v1.9.1+hotfix.6-stable" />
+
+#### Windowsをお使いの方は、
+
+<SDKInstall os="windows" version="v1.9.1+hotfix.6-stable" />
 
 ### Flutter環境構築
 
 環境構築する場合は [Flutter環境構築](/handson/basic) を確認しましょう
 
 ※ FlutterでAndroidのシミュレータが確認できる方はFlutterの項目を飛ばしてください
-
-### 当日までに以下の準備を進めてください。
-
-当日使うレジュメ: [https://github.com/YujiOnishi/dictionary_hands_on_hinagata/](https://github.com/YujiOnishi/dictionary_hands_on_hinagata/)
 
 ## Firebase
 

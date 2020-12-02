@@ -1,5 +1,9 @@
 # 写真編集アプリ
 
+当日までに以下の準備を進めてください。
+
+[レジュメ](https://github.com/YujiOnishi/flutter_picture_edit_hands_on/)
+
 ::: tip 配信動画を見られます！
 
 2020/06/20 オンラインで開催した Flutter Handson Osaka [#4](https://flutter-jp.connpass.com/event/175920/) で当日配信した動画はこちらからご覧になれます。[レジュメ](https://github.com/YujiOnishi/flutter_picture_edit_hands_on/) と [解説書](https://docs.google.com/spreadsheets/d/1cLwwOs4PRPbpie5YzTEpW32TE2soMQdiXD6O2caTT0U/edit#gid=2052184094) と合わせてご確認いただければ、と思います。
@@ -11,17 +15,25 @@
 -->
 :::
 
+## 開発環境に必要なもの一覧
+
 <Environment />
+
+## Flutter SDKのダウンロード
+
+#### MacOSをお使いの方は、
+
+<SDKInstall os="macos" version="1.17.2-stable" />
+
+#### Windowsをお使いの方は、
+
+<SDKInstall os="windows" version="1.17.2-stable" />
 
 ### Flutter環境構築
 
 環境構築する場合は [Flutter環境構築](/handson/basic) を確認しましょう
 
 ※ FlutterでAndroidのシミュレータが確認できる方はFlutterの項目を飛ばしてください
-
-### 当日までに以下の準備を進めてください。
-
-当日使うレジュメ: [https://github.com/YujiOnishi/flutter_picture_edit_hands_on/](https://github.com/YujiOnishi/flutter_picture_edit_hands_on/)
 
 ## サンプルアプリ起動
 
