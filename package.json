@@ -13,8 +13,8 @@
     "vuepress": "1.7.1"
   },
   "devDependencies": {
-    "@nekohack/eslint-config": "^0.3.0",
-    "babel-eslint": "^10.1.0",
-    "eslint": "^7.13.0"
+    "@nekohack/eslint-config": "0.3.0",
+    "babel-eslint": "10.1.0",
+    "eslint": "7.14.0"
   }
 }
