@@ -2,7 +2,7 @@
   <div>
     <div class="guide">
       <p>
-        <a :href="`https://storage.googleapis.com/flutter_infra/releases/stable/${os}/flutter_windows_${version}.zip`" target="__blank" rel="noopener noreferrer">
+        <a :href="`https://storage.googleapis.com/flutter_infra/releases/stable/${os}/flutter_${os}_${version}.zip`" target="__blank" rel="noopener noreferrer">
           {{ `${version} のダウンロード` }}
         </a>
       </p>
