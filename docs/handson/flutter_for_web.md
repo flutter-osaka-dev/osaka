@@ -88,13 +88,13 @@ flutter doctor --android-licenses
 
 #### 5. Flutterプラグインのインストール
 
-2-1. Flutterプラグインのインストールの際、Dartプラグインもインストールするか尋ねられるので合わせてインストール
+※ Flutterプラグインのインストールの際、Dartプラグインもインストールするか尋ねられるので合わせてインストール
 
-2-2. AndroidStudioを起動する。初回起動時にSDKのインストールウィザードが出るがStandardを選択肢デフォルトの設定でインストールAndroidStudioを起動
+5-1. AndroidStudioを起動する。初回起動時にSDKのインストールウィザードが出るがStandardを選択肢デフォルトの設定でインストールAndroidStudioを起動
 
-2-3. `configure` を押下。メニュー一覧が表示されるはずなのでPluginを選択する
+5-2. `configure` を押下。メニュー一覧が表示されるはずなのでPluginを選択する
 
-2-4. 検索ボックスから `flutter` と検索し、公式のflutter.ioが提供するFlutterプラグインを選択しインストールを押してFlutterプラグインとDartプラグインをインストール
+5-3. 検索ボックスから `flutter` と検索し、公式のflutter.ioが提供するFlutterプラグインを選択しインストールを押してFlutterプラグインとDartプラグインをインストール
 
 
 
