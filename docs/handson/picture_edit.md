@@ -4,7 +4,7 @@
 
 [レジュメ](https://github.com/YujiOnishi/flutter_picture_edit_hands_on/)
 
-::: tip 配信動画を見られます！
+::: tip 配信動画
 
 2020/06/20 オンラインで開催した Flutter Handson Osaka [#4](https://flutter-jp.connpass.com/event/175920/) で当日配信した動画はこちらからご覧になれます。[レジュメ](https://github.com/YujiOnishi/flutter_picture_edit_hands_on/) と [解説書](https://docs.google.com/spreadsheets/d/1cLwwOs4PRPbpie5YzTEpW32TE2soMQdiXD6O2caTT0U/edit#gid=2052184094) と合わせてご確認いただければ、と思います。
 
