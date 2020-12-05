@@ -4,6 +4,8 @@
 
 雛型コードをダウンロードし AndroidStudio (Macの方はIntelliJ) で開き、レジュメとYoutubeLiveの進行に応じて、レジュメコードを参考に貼り付け、アプリを完成させる流れで当日進めます。
 
+※ 開始時には、AndroidStudioとFlutter for Webの起動をお願いします (詳細は以下をご参照ください)
+
 - [雛形コード](https://github.com/YujiOnishi/flutter_atomic_handson_hinagata)
 - [レジュメ](https://docs.google.com/presentation/d/1fPNGFQLCMzOlHE9YqsP_aQ2G0LDqqsAsFsMTMB6MdxA/edit#slide=id.g8821f73e74_1_5)
 - [レジュメコード](https://github.com/YujiOnishi/-flutter_atomic_handson_resume)
@@ -53,9 +55,7 @@
 -->
 :::
 
-※ 開始時には、AndroidStudioとFlutter for Webの起動をお願いします (詳細は以下をご参照ください)
-
-
+## 開発環境に必要なもの一覧
 
 <Environment />
 
