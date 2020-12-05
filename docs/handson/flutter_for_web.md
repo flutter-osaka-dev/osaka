@@ -4,13 +4,54 @@
 
 雛型コードをダウンロードし AndroidStudio (Macの方はIntelliJ) で開き、レジュメとYoutubeLiveの進行に応じて、レジュメコードを参考に貼り付け、アプリを完成させる流れで当日進めます。
 
-【当日使用するURL】
-
-メインの進行に使う YoutubeLive URL は当日発表します
-
 - [雛形コード](https://github.com/YujiOnishi/flutter_atomic_handson_hinagata)
 - [レジュメ](https://docs.google.com/presentation/d/1fPNGFQLCMzOlHE9YqsP_aQ2G0LDqqsAsFsMTMB6MdxA/edit#slide=id.g8821f73e74_1_5)
 - [レジュメコード](https://github.com/YujiOnishi/-flutter_atomic_handson_resume)
+
+::: tip 配信動画
+
+2020/12/05 オンラインで開催した Flutter Handson Osaka [#7](https://flutter-jp.connpass.com/event/194004/) で当日配信した動画はこちらからご覧になれます。[レジュメ](https://github.com/YujiOnishi/-flutter_atomic_handson_resume/) と [解説書](https://docs.google.com/spreadsheets/d/1MB4Ph9kY-g7RiXNdHV3ll7iY0hKRLe160U4KpcFNzVE/edit#gid=1226069133) と合わせてご確認いただければ、と思います。
+
+### 0章
+
+<youtube video-id="koMMSSQHjOU" />
+
+<!--
+[https://www.youtube.com/watch?v=koMMSSQHjOU](https://www.youtube.com/watch?v=koMMSSQHjOU)
+-->
+
+### 1章
+
+<youtube video-id="rBtnmLidjes" />
+
+<!--
+[https://www.youtube.com/watch?v=rBtnmLidjes](https://www.youtube.com/watch?v=rBtnmLidjes)
+-->
+
+### 2章
+
+<youtube video-id="2agTS7ffo0s" />
+
+<!--
+[https://www.youtube.com/watch?v=2agTS7ffo0s](https://www.youtube.com/watch?v=2agTS7ffo0s)
+-->
+
+### 3章
+
+<youtube video-id="q7pxC7xtCI4" />
+
+<!--
+[https://www.youtube.com/watch?v=q7pxC7xtCI4](https://www.youtube.com/watch?v=q7pxC7xtCI4)
+-->
+
+### 4章
+
+<youtube video-id="FK5OtLrajkk" />
+
+<!--
+[https://www.youtube.com/watch?v=FK5OtLrajkk](https://www.youtube.com/watch?v=FK5OtLrajkk)
+-->
+:::
 
 ※ 開始時には、AndroidStudioとFlutter for Webの起動をお願いします (詳細は以下をご参照ください)
 

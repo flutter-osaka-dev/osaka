@@ -4,7 +4,7 @@
 
 [レジュメ](https://github.com/YujiOnishi/WebRtc_flutter_handson/)
 
-::: tip 配信動画を見られます！
+::: tip 配信動画
 
 2020/08/21 オンラインで開催した Flutter Handson Osaka [#5](https://flutter-jp.connpass.com/event/180326/) で当日配信した動画はこちらからご覧になれます。[レジュメ](https://github.com/YujiOnishi/WebRtc_flutter_handson_handout/) と [解説書](https://docs.google.com/spreadsheets/d/1LvBX3iR5ZOpBjU6mrn1zf0us4KTxKG51ZEKxSl0wTBY/edit#gid=2031444284https://docs.google.com/spreadsheets/d/1LvBX3iR5ZOpBjU6mrn1zf0us4KTxKG51ZEKxSl0wTBY/edit#gid=2031444284) と合わせてご確認いただければ、と思います。
 
