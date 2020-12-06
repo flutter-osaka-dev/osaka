@@ -24,7 +24,7 @@ source ~/.bash_profile
 
 ### 2. AndroidStudioのインストール
 
-2-1. [DOWNLOAD ANDROID STUDIO](https://developer.android.com/studio/?hl=ja)より任意の場所に.exeをダウンロード
+2-1. [DOWNLOAD ANDROID STUDIO](https://developer.android.com/studio/?hl=ja)より任意の場所に `.dmg` をダウンロード
 
 2-2. インストールウィザードの指示に従ってインストール。初回起動時にSDKのインストールウィザードが出るがStandardを選択肢デフォルトの設定でインストール
 
@@ -46,7 +46,7 @@ OS共通へ進む
 
 ### 2. AndroidStudioのインストール
 
-2-1. [DOWNLOAD ANDROID STUDIO](https://developer.android.com/studio/?hl=ja)より任意の場所に.exeをダウンロード
+2-1. [DOWNLOAD ANDROID STUDIO](https://developer.android.com/studio/?hl=ja)より任意の場所に `.exe` をダウンロード
 
 2-2. インストールウィザードの指示に従ってインストール。初回起動時にSDKのインストールウィザードが出るが `Standard` を選択しデフォルトの設定でインストール
 
@@ -87,14 +87,26 @@ flutter doctor --android-licenses
 
 2-4. 検索ボックスから `flutter` と検索し、公式のflutter.ioが提供するFlutterプラグインを選択しインストールを押してFlutterプラグインとDartプラグインをインストール
 
+![](/flutter-plugin-in-preference.png)
+
+![](/dart-plugin-in-preference.png)
+
 ### 3. エミュレータの作成
 
 3-1. `configure` を押下しAVD Managerを起動
 
 3-2. `create virtual device` を押下
 
+![](/confirm-virtual-devices.png)
+
 3-3. `Pixel2` を選択し `next` を押下
+
+![](/select-hardware.png)
 
 3-4. システムイメージのAPIレベルを求められるので `29(Q)` を選択し `next` を押下。この際、SystemImageが未ダウンロードであれば、ReleaseNameに `Download` と表示されているはずなのでダウンロード
 
+![](/select-system-image.png)
+
 3-5. `finish` を押下
+
+![](/set-avd-config.png)
