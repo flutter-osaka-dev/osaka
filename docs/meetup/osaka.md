@@ -10,6 +10,7 @@
 )
 -->
 
+- [サルでも分かるアプリを作る](https://docs.google.com/presentation/d/1RRonOcUChykWjL6A30SSH3r3PoCMoXArkutXxf4HJ5A/edit#slide=id.g1276827f2e_0_5)
 - [Dart / Flutter コードファイルジェネレート入門](https://www.slideshare.net/cch-robo/dart-flutter-242484240)
 - [cch-robo/model_assist | Github.com](https://github.com/cch-robo/model_assist)
 - [Flutter Chips](https://zenn.dev/tetsukick/books/06ee607e30e243)
