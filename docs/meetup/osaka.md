@@ -1,5 +1,20 @@
 # ミートアップ
 
+## Flutter Meetup Osaka #6
+2021/02/10 (Wed)
+
+<youtube video-id="f7QpGVKXfbA" />
+
+<!--
+[https://www.youtube.com/watch?v=f7QpGVKXfbA](https://www.youtube.com/watch?v=f7QpGVKXfbA
+)
+-->
+
+- [Dart / Flutter コードファイルジェネレート入門](https://www.slideshare.net/cch-robo/dart-flutter-242484240)
+- [cch-robo/model_assist | Github.com](https://github.com/cch-robo/model_assist)
+- [Flutter Chips](https://zenn.dev/tetsukick/books/06ee607e30e243)
+- [Provider.of()のヒミツ](https://docs.google.com/presentation/d/1DdWjtjuuNv-OxnDZNB5irqHH2l3UelGMctVTmWXKYBk/edit#slide=id.p)
+
 ## Flutter Meetup Osaka #5
 2020/11/27 (Fri) / [sli.do](https://app.sli.do/event/3szqbwy1)
 
