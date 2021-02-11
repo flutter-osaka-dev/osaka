@@ -13,6 +13,8 @@
 - [サルでも分かるアプリを作る](https://docs.google.com/presentation/d/1RRonOcUChykWjL6A30SSH3r3PoCMoXArkutXxf4HJ5A/edit#slide=id.g1276827f2e_0_5)
 - [Dart / Flutter コードファイルジェネレート入門](https://www.slideshare.net/cch-robo/dart-flutter-242484240)
 - [cch-robo/model_assist | Github.com](https://github.com/cch-robo/model_assist)
+- [StatefulWidget を救いたい](https://docs.google.com/presentation/d/1coyO9Z9p_Ot1FDTRCnq7EC5CVosYe_ge1zrDDndE7sg/edit)
+- [Flutter でのデバッグ](https://speakerdeck.com/tetsukick/flutter-meetup-osaka-number-6)
 - [Flutter Chips](https://zenn.dev/tetsukick/books/06ee607e30e243)
 - [Provider.of()のヒミツ](https://docs.google.com/presentation/d/1DdWjtjuuNv-OxnDZNB5irqHH2l3UelGMctVTmWXKYBk/edit#slide=id.p)
 
