@@ -59,7 +59,8 @@ module.exports = {
             `/handson/dictionary`,
             `/handson/picture_edit`,
             `/handson/webrtc`,
-            `/handson/flutter_for_web`
+            `/handson/flutter_for_web`,
+            `/handson/riverpod`
           ]
         }
       ],
@@ -81,7 +82,8 @@ module.exports = {
             `/dictionary`,
             `/picture_edit`,
             `/webrtc`,
-            `/flutter_for_web`
+            `/flutter_for_web`,
+            `/riverpod`
           ]
         }
       ]
