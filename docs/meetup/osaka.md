@@ -17,6 +17,7 @@
 - [Flutter でのデバッグ](https://speakerdeck.com/tetsukick/flutter-meetup-osaka-number-6)
 - [Flutter Chips](https://zenn.dev/tetsukick/books/06ee607e30e243)
 - [Provider.of()のヒミツ](https://docs.google.com/presentation/d/1DdWjtjuuNv-OxnDZNB5irqHH2l3UelGMctVTmWXKYBk/edit#slide=id.p)
+- [dart:ffi を Flutter で使ってみる](https://qiita.com/hyshu/items/8eb71d7d36d56b2b5bb0)
 
 ## Flutter Meetup Osaka #5
 2020/11/27 (Fri) / [sli.do](https://app.sli.do/event/3szqbwy1)
