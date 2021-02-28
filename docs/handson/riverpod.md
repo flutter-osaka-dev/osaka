@@ -6,7 +6,7 @@
 
 ※ 開始時には、AndroidStudioとFlutter for Webの起動をお願いします (詳細は以下をご参照ください)
 
-- [雛形コード](https://github.com/YujiOnishi/flutter_atomic_handson_hinagata)
+- [雛形コード](https://github.com/YujiOnishi/riverpod_hinagata)
 - [レジュメ](https://docs.google.com/presentation/d/1A6UZ8JJccU4MdJvueHw-QoRw-ls3BA9JRU5vYyCXWRc/edit?usp=sharing)
 - [レジュメコード](https://github.com/YujiOnishi/riverpod_resume)
 
