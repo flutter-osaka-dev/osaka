@@ -56,6 +56,7 @@ module.exports = {
             `/`,
             `/meetup/osaka`,
             `/handson/basic`,
+            `/handson/basic_web`,
             `/handson/dictionary`,
             `/handson/picture_edit`,
             `/handson/webrtc`,
@@ -79,6 +80,7 @@ module.exports = {
           collapsable: false,
           children: [
             `/basic`,
+            `/basic_web`,
             `/dictionary`,
             `/picture_edit`,
             `/webrtc`,

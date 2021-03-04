@@ -1,4 +1,4 @@
-# Flutter 環境構築
+# Flutter for Web 環境構築
 
 ## Macをお使いの方
 
@@ -97,20 +97,14 @@ flutter doctor --android-licenses
 
 ![](https://i.imgur.com/3uZ1lPx.png)
 
-### 3. エミュレータの作成
+### 3. Flutter for Web の設定
 
-3-1. `configure` を押下しAVD Managerを起動、 `create virtual device` を押下
+3-1. 以下コマンドを叩き、設定を行う。
 
-![](https://i.imgur.com/V1ljhWf.jpg)
+```bash
+flutter channel beta
+```
 
-3-2. `Pixel2` を選択し `next` を押下
-
-![](https://i.imgur.com/Zok0WgT.jpg)
-
-3-3. システムイメージのAPIレベルを求められるので `29(Q)` を選択し `next` を押下。この際、SystemImageが未ダウンロードであれば、ReleaseNameに `Download` と表示されているはずなのでダウンロード
-
-![](https://i.imgur.com/fQDeoIp.jpg)
-
-3-4. `finish` を押下
-
-![](https://i.imgur.com/DEVlzLk.jpg)
+```bash
+flutter config --enable-web
+```
