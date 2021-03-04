@@ -30,7 +30,7 @@ source ~/.bash_profile
 
 ### 3. OS共通へ進む
 
-OS共通へ進む
+[OS共通へ進む](#os共通)
 
 ## Windowsをお使いの方
 
@@ -65,7 +65,7 @@ OS共通へ進む
 
 ### 3. OS共通へ進む
 
-OS共通へ進む
+[OS共通へ進む](#os共通)
 
 ## OS共通
 
@@ -83,30 +83,34 @@ flutter doctor --android-licenses
 
 2-2. AndroidStudioを起動する。初回起動時にSDKのインストールウィザードが出るがStandardを選択肢デフォルトの設定でインストールAndroidStudioを起動
 
+![](https://i.imgur.com/1Eqwm4n.jpg)
+
 2-3. `configure` を押下。メニュー一覧が表示されるはずなのでPluginを選択する
+
+![](https://i.imgur.com/NI9E46H.jpg)
 
 2-4. 検索ボックスから `flutter` と検索し、公式のflutter.ioが提供するFlutterプラグインを選択しインストールを押してFlutterプラグインとDartプラグインをインストール
 
-![](/flutter-plugin-in-preference.png)
+![](https://i.imgur.com/bSPTVY5.png)
 
-![](/dart-plugin-in-preference.png)
+2-5. Dart プラグインについても同様。
+
+![](https://i.imgur.com/3uZ1lPx.png)
 
 ### 3. エミュレータの作成
 
-3-1. `configure` を押下しAVD Managerを起動
+3-1. `configure` を押下しAVD Managerを起動、 `create virtual device` を押下
 
-3-2. `create virtual device` を押下
+![](https://i.imgur.com/V1ljhWf.jpg)
 
-![](/confirm-virtual-devices.png)
+3-2. `Pixel2` を選択し `next` を押下
 
-3-3. `Pixel2` を選択し `next` を押下
+![](https://i.imgur.com/Zok0WgT.jpg)
 
-![](/select-hardware.png)
+3-3. システムイメージのAPIレベルを求められるので `29(Q)` を選択し `next` を押下。この際、SystemImageが未ダウンロードであれば、ReleaseNameに `Download` と表示されているはずなのでダウンロード
 
-3-4. システムイメージのAPIレベルを求められるので `29(Q)` を選択し `next` を押下。この際、SystemImageが未ダウンロードであれば、ReleaseNameに `Download` と表示されているはずなのでダウンロード
+![](https://i.imgur.com/fQDeoIp.jpg)
 
-![](/select-system-image.png)
+3-4. `finish` を押下
 
-3-5. `finish` を押下
-
-![](/set-avd-config.png)
+![](https://i.imgur.com/DEVlzLk.jpg)
