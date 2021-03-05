@@ -60,7 +60,7 @@
 
 2020/12/05 オンラインで開催した Flutter Handson Osaka [#7](https://flutter-jp.connpass.com/event/194004/) で当日配信した動画はこちらからご覧になれます。[レジュメ](https://github.com/YujiOnishi/-flutter_atomic_handson_resume/) と [解説書](https://docs.google.com/spreadsheets/d/1MB4Ph9kY-g7RiXNdHV3ll7iY0hKRLe160U4KpcFNzVE/edit#gid=1226069133) と合わせてご確認いただければ、と思います。
 
-### 1. 0章
+### 1. 1章
 
 <youtube video-id="koMMSSQHjOU" />
 
@@ -68,7 +68,7 @@
 [https://www.youtube.com/watch?v=koMMSSQHjOU](https://www.youtube.com/watch?v=koMMSSQHjOU)
 -->
 
-### 2. 1章
+### 2. 2章
 
 <youtube video-id="rBtnmLidjes" />
 
@@ -76,7 +76,7 @@
 [https://www.youtube.com/watch?v=rBtnmLidjes](https://www.youtube.com/watch?v=rBtnmLidjes)
 -->
 
-### 3. 2章
+### 3. 3章
 
 <youtube video-id="2agTS7ffo0s" />
 
@@ -84,7 +84,7 @@
 [https://www.youtube.com/watch?v=2agTS7ffo0s](https://www.youtube.com/watch?v=2agTS7ffo0s)
 -->
 
-### 4. 3章
+### 4. 4章
 
 <youtube video-id="q7pxC7xtCI4" />
 
@@ -92,7 +92,7 @@
 [https://www.youtube.com/watch?v=q7pxC7xtCI4](https://www.youtube.com/watch?v=q7pxC7xtCI4)
 -->
 
-### 5. 4章
+### 5. 5章
 
 <youtube video-id="FK5OtLrajkk" />
 
