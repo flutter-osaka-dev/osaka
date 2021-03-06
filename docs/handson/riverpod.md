@@ -58,7 +58,7 @@
 
 ## 配信動画
 
-2021/03/06 オンラインで開催した Flutter Handson Osaka [#8](https://flutter-jp.connpass.com/event/201267/) で当日配信した動画はこちらからご覧になれます。[レジュメ](https://github.com/YujiOnishi/riverpod_resume/) と合わせてご確認いただければ、と思います。
+2021/03/06 オンラインで開催した Flutter Handson Osaka [#8](https://flutter-jp.connpass.com/event/201267/) で当日配信した動画はこちらからご覧になれます。[レジュメ](https://github.com/YujiOnishi/riverpod_resume/) と [解説書](https://docs.google.com/spreadsheets/d/1aip12KlCOTfr4U63aZJ64kXPkqptZ3JnVjDIAYPt39Y/edit#gid=0) と合わせてご確認いただければ、と思います。
 
 ### 1. 1章
 
