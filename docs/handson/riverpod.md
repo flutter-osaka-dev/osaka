@@ -56,6 +56,50 @@
 
 ※ 結構時間がかかります
 
+## 配信動画
+
+2021/03/06 オンラインで開催した Flutter Handson Osaka [#8](https://flutter-jp.connpass.com/event/201267/) で当日配信した動画はこちらからご覧になれます。[レジュメ](https://github.com/YujiOnishi/riverpod_resume/) と [解説書](https://docs.google.com/spreadsheets/d/1aip12KlCOTfr4U63aZJ64kXPkqptZ3JnVjDIAYPt39Y/edit#gid=0) と合わせてご確認いただければ、と思います。
+
+### 1. 1章
+
+<youtube video-id="eL2I-gufoEY" />
+
+<!--
+[https://www.youtube.com/watch?v=eL2I-gufoEY](https://www.youtube.com/watch?v=eL2I-gufoEY)
+-->
+
+### 2. 2章
+
+<youtube video-id="W6XyGio32JA" />
+
+<!--
+[https://www.youtube.com/watch?v=W6XyGio32JA](https://www.youtube.com/watch?v=W6XyGio32JA)
+-->
+
+### 3. 3章
+
+<youtube video-id="7lDicr-8luw" />
+
+<!--
+[https://www.youtube.com/watch?v=7lDicr-8luw](https://www.youtube.com/watch?v=7lDicr-8luw)
+-->
+
+### 4. 4章
+
+<youtube video-id="GoMt1jHBeFw" />
+
+<!--
+[https://www.youtube.com/watch?v=GoMt1jHBeFw](https://www.youtube.com/watch?v=GoMt1jHBeFw)
+-->
+
+### 5. 5章
+
+<youtube video-id="cTP144brMmw" />
+
+<!--
+[https://www.youtube.com/watch?v=cTP144brMmw](https://www.youtube.com/watch?v=cTP144brMmw)
+-->
+
 ## 困ったら…
 
  [公式ドキュメントを読みましょう](http://flutter.io/)
