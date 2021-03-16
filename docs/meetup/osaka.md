@@ -3,10 +3,10 @@
 ## Flutter Meetup Osaka #6
 2021/02/10 (Wed)
 
-<youtube video-id="f7QpGVKXfbA" />
+<youtube video-id="XnGlLwMbMpY" />
 
 <!--
-[https://www.youtube.com/watch?v=f7QpGVKXfbA](https://www.youtube.com/watch?v=f7QpGVKXfbA
+[https://www.youtube.com/watch?v=XnGlLwMbMpY](https://www.youtube.com/watch?v=XnGlLwMbMpY
 )
 -->
 
