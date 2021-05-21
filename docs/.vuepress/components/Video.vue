@@ -1,5 +1,5 @@
 <template>
-  <youtube :video-id="videoId" />
+  <youtube :video-id="videoId" :player-vars="playerVars" />
 </template>
 
 <script>
@@ -8,6 +8,13 @@ export default {
     videoId: {
       type: String,
       default: ''
+    }
+  },
+  data() {
+    return {
+      playerVars: {
+        origin: `${location.protocol}//${location.hostname}/`
+      }
     }
   }
 }
