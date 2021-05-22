@@ -1,13 +1,78 @@
 # ミートアップ
 
+## Flutter Meetup Osaka #7
+2021/05/22 (Sat)
+
+### Flutter Web に HTML 要素を貼る
+高田晴彦 さん / [Flutter Web に HTML 要素を貼る](https://www.docswell.com/s/tfandkusu/NK6475-FlutterWebHtmlElement)
+
+<youtube video-id="UKqtwRLYjss" />
+
+<!--
+[https://www.youtube.com/watch?v=UKqtwRLYjss](https://www.youtube.com/watch?v=UKqtwRLYjss)
+-->
+
+### Button のスタイリング完全に理解した
+菊池絋 さん / [Button スタイリング完全に理解した](https://docs.google.com/presentation/d/11ZpVdRknk-CufSIxmRN86Iej3rfWNONQ15pzniNKWi8/edit#slide=id.p)
+
+<youtube video-id="3T_cRn3sQiI" />
+
+<!--
+[https://www.youtube.com/watch?v=3T_cRn3sQiI](https://www.youtube.com/watch?v=3T_cRn3sQiI)
+-->
+
+### Path を使ってたのしい UI を作ろう
+Kurogoma4D さん / [Path を使ってたのしい UI を作ろう](https://docs.google.com/presentation/d/1fcO-ZHH68aiUQctO_bbs_npR-xAtVn9YAS5i9fFpN4g/edit#slide=id.p)
+
+<youtube video-id="JzwOxpW-KbI" />
+
+<!--
+[https://www.youtube.com/watch?v=JzwOxpW-KbI](https://www.youtube.com/watch?v=JzwOxpW-KbI)
+-->
+
+### Getting Started with FlutterFlow
+Kenichi Kambara さん / [Getting Started with FlutterFlow](https://speakerdeck.com/korodroid/getting-started-with-flutterflow)
+
+<youtube video-id="amem5wVuwQA" />
+
+<!--
+[https://www.youtube.com/watch?v=amem5wVuwQA](https://www.youtube.com/watch?v=amem5wVuwQA)
+-->
+
+### Flutter を始めたらこれだけはしておけ 8 選 ... のうち 3 つ
+朝日大樹 さん / [プロジェクトを作ったら脳死でやっておきたい8個の設定](https://blog.dalt.me/2708)
+
+<youtube video-id="ydQivPOon6g" />
+
+<!--
+[https://www.youtube.com/watch?v=ydQivPOon6g](https://www.youtube.com/watch?v=ydQivPOon6g)
+-->
+
+### I/O Photobooth の Web カメラ・プラグインをハックする
+兼高理恵 さん / [I/O Photobooth の Web カメラ・プラグインをハックする](https://drive.google.com/file/d/15eCW59_PTBNwYQPZsNFkNAuva5RKpXzP/view)
+
+<youtube video-id="zaHBqWQDzvs" />
+
+<!--
+[https://www.youtube.com/watch?v=zaHBqWQDzvs](https://www.youtube.com/watch?v=zaHBqWQDzvs)
+-->
+
+### Flutter パッケージを作りました
+中條剛 さん / [Flutter パッケージを作りました](https://docs.google.com/presentation/d/1YssRkNYTwwkUCX826B6l6xI2B-lUWN94-Zzg0NxdBMc/edit#slide=id.p)
+
+<youtube video-id="Ycpo2Dq3qKs" />
+
+<!--
+[https://www.youtube.com/watch?v=Ycpo2Dq3qKs](https://www.youtube.com/watch?v=Ycpo2Dq3qKs)
+-->
+
 ## Flutter Meetup Osaka #6
 2021/02/10 (Wed)
 
 <youtube video-id="XnGlLwMbMpY" />
 
 <!--
-[https://www.youtube.com/watch?v=XnGlLwMbMpY](https://www.youtube.com/watch?v=XnGlLwMbMpY
-)
+[https://www.youtube.com/watch?v=XnGlLwMbMpY](https://www.youtube.com/watch?v=XnGlLwMbMpY)
 -->
 
 - [サルでも分かるアプリを作る](https://docs.google.com/presentation/d/1RRonOcUChykWjL6A30SSH3r3PoCMoXArkutXxf4HJ5A/edit#slide=id.g1276827f2e_0_5)
