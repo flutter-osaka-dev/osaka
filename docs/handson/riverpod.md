@@ -62,7 +62,7 @@
 
 ### 1. 1章
 
-<youtube video-id="eL2I-gufoEY" />
+<YouTubeVideo video-id="eL2I-gufoEY" />
 
 <!--
 [https://www.youtube.com/watch?v=eL2I-gufoEY](https://www.youtube.com/watch?v=eL2I-gufoEY)
@@ -70,7 +70,7 @@
 
 ### 2. 2章
 
-<youtube video-id="W6XyGio32JA" />
+<YouTubeVideo video-id="W6XyGio32JA" />
 
 <!--
 [https://www.youtube.com/watch?v=W6XyGio32JA](https://www.youtube.com/watch?v=W6XyGio32JA)
@@ -78,7 +78,7 @@
 
 ### 3. 3章
 
-<youtube video-id="7lDicr-8luw" />
+<YouTubeVideo video-id="7lDicr-8luw" />
 
 <!--
 [https://www.youtube.com/watch?v=7lDicr-8luw](https://www.youtube.com/watch?v=7lDicr-8luw)
@@ -86,7 +86,7 @@
 
 ### 4. 4章
 
-<youtube video-id="GoMt1jHBeFw" />
+<YouTubeVideo video-id="GoMt1jHBeFw" />
 
 <!--
 [https://www.youtube.com/watch?v=GoMt1jHBeFw](https://www.youtube.com/watch?v=GoMt1jHBeFw)
@@ -94,7 +94,7 @@
 
 ### 5. 5章
 
-<youtube video-id="cTP144brMmw" />
+<YouTubeVideo video-id="cTP144brMmw" />
 
 <!--
 [https://www.youtube.com/watch?v=cTP144brMmw](https://www.youtube.com/watch?v=cTP144brMmw)

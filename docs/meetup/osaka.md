@@ -6,7 +6,7 @@
 ### Flutter Web に HTML 要素を貼る
 高田晴彦 さん / [Flutter Web に HTML 要素を貼る](https://www.docswell.com/s/tfandkusu/NK6475-FlutterWebHtmlElement)
 
-<youtube video-id="UKqtwRLYjss" />
+<YouTubeVideo video-id="UKqtwRLYjss" />
 
 <!--
 [https://www.youtube.com/watch?v=UKqtwRLYjss](https://www.youtube.com/watch?v=UKqtwRLYjss)
@@ -15,7 +15,7 @@
 ### Button のスタイリング完全に理解した
 菊池絋 さん / [Button スタイリング完全に理解した](https://docs.google.com/presentation/d/11ZpVdRknk-CufSIxmRN86Iej3rfWNONQ15pzniNKWi8/edit#slide=id.p)
 
-<youtube video-id="3T_cRn3sQiI" />
+<YouTubeVideo video-id="3T_cRn3sQiI" />
 
 <!--
 [https://www.youtube.com/watch?v=3T_cRn3sQiI](https://www.youtube.com/watch?v=3T_cRn3sQiI)
@@ -24,7 +24,7 @@
 ### Path を使ってたのしい UI を作ろう
 Kurogoma4D さん / [Path を使ってたのしい UI を作ろう](https://docs.google.com/presentation/d/1fcO-ZHH68aiUQctO_bbs_npR-xAtVn9YAS5i9fFpN4g/edit#slide=id.p)
 
-<youtube video-id="JzwOxpW-KbI" />
+<YouTubeVideo video-id="JzwOxpW-KbI" />
 
 <!--
 [https://www.youtube.com/watch?v=JzwOxpW-KbI](https://www.youtube.com/watch?v=JzwOxpW-KbI)
@@ -33,7 +33,7 @@ Kurogoma4D さん / [Path を使ってたのしい UI を作ろう](https://docs
 ### Getting Started with FlutterFlow
 Kenichi Kambara さん / [Getting Started with FlutterFlow](https://speakerdeck.com/korodroid/getting-started-with-flutterflow)
 
-<youtube video-id="amem5wVuwQA" />
+<YouTubeVideo video-id="amem5wVuwQA" />
 
 <!--
 [https://www.youtube.com/watch?v=amem5wVuwQA](https://www.youtube.com/watch?v=amem5wVuwQA)
@@ -42,7 +42,7 @@ Kenichi Kambara さん / [Getting Started with FlutterFlow](https://speakerdeck.
 ### Flutter を始めたらこれだけはしておけ 8 選 ... のうち 3 つ
 朝日大樹 さん / [プロジェクトを作ったら脳死でやっておきたい8個の設定](https://blog.dalt.me/2708)
 
-<youtube video-id="ydQivPOon6g" />
+<YouTubeVideo video-id="ydQivPOon6g" />
 
 <!--
 [https://www.youtube.com/watch?v=ydQivPOon6g](https://www.youtube.com/watch?v=ydQivPOon6g)
@@ -51,7 +51,7 @@ Kenichi Kambara さん / [Getting Started with FlutterFlow](https://speakerdeck.
 ### I/O Photobooth の Web カメラ・プラグインをハックする
 兼高理恵 さん / [I/O Photobooth の Web カメラ・プラグインをハックする](https://drive.google.com/file/d/15eCW59_PTBNwYQPZsNFkNAuva5RKpXzP/view)
 
-<youtube video-id="zaHBqWQDzvs" />
+<YouTubeVideo video-id="zaHBqWQDzvs" />
 
 <!--
 [https://www.youtube.com/watch?v=zaHBqWQDzvs](https://www.youtube.com/watch?v=zaHBqWQDzvs)
@@ -60,7 +60,7 @@ Kenichi Kambara さん / [Getting Started with FlutterFlow](https://speakerdeck.
 ### Flutter パッケージを作りました
 中條剛 さん / [Flutter パッケージを作りました](https://docs.google.com/presentation/d/1YssRkNYTwwkUCX826B6l6xI2B-lUWN94-Zzg0NxdBMc/edit#slide=id.p)
 
-<youtube video-id="Ycpo2Dq3qKs" />
+<YouTubeVideo video-id="Ycpo2Dq3qKs" />
 
 <!--
 [https://www.youtube.com/watch?v=Ycpo2Dq3qKs](https://www.youtube.com/watch?v=Ycpo2Dq3qKs)
@@ -69,7 +69,7 @@ Kenichi Kambara さん / [Getting Started with FlutterFlow](https://speakerdeck.
 ## Flutter Meetup Osaka #6
 2021/02/10 (Wed)
 
-<youtube video-id="XnGlLwMbMpY" />
+<YouTubeVideo video-id="XnGlLwMbMpY" />
 
 <!--
 [https://www.youtube.com/watch?v=XnGlLwMbMpY](https://www.youtube.com/watch?v=XnGlLwMbMpY)
@@ -87,7 +87,7 @@ Kenichi Kambara さん / [Getting Started with FlutterFlow](https://speakerdeck.
 ## Flutter Meetup Osaka #5
 2020/11/27 (Fri) / [sli.do](https://app.sli.do/event/3szqbwy1)
 
-<youtube video-id="lU4T05erc84" />
+<YouTubeVideo video-id="lU4T05erc84" />
 
 <!--
 [https://youtu.be/lU4T05erc84](https://youtu.be/lU4T05erc84)
@@ -101,7 +101,7 @@ Kenichi Kambara さん / [Getting Started with FlutterFlow](https://speakerdeck.
 ## Dart Meetup Osaka #1
 2020/08/07 (Fri) / [sli.do](https://app.sli.do/event/1cs5vqx8)
 
-<youtube video-id="e79QGqUDfw4" />
+<YouTubeVideo video-id="e79QGqUDfw4" />
 
 <!--
 [https://youtu.be/e79QGqUDfw4](https://youtu.be/e79QGqUDfw4)
@@ -114,7 +114,7 @@ Kenichi Kambara さん / [Getting Started with FlutterFlow](https://speakerdeck.
 ## Flutter Meetup Osaka #3
 2020/05/22 (Fri) / [sli.do](https://app.sli.do/event/8xodjmjf)
 
-<youtube video-id="UJyE1Bd5Y2o" />
+<YouTubeVideo video-id="UJyE1Bd5Y2o" />
 
 <!--
 [https://www.youtube.com/watch?v=UJyE1Bd5Y2o](https://www.youtube.com/watch?v=0H4hc291t5A)
