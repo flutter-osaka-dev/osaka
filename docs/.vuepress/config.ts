@@ -152,7 +152,8 @@ export default defineUserConfig<DefaultThemeOptions>({
             `/handson/picture_edit.md`,
             `/handson/webrtc.md`,
             `/handson/flutter_for_web.md`,
-            `/handson/riverpod.md`
+            `/handson/riverpod.md`,
+            `/handson/account.md`
           ]
         }
       ],
@@ -174,7 +175,8 @@ export default defineUserConfig<DefaultThemeOptions>({
             `/handson/picture_edit.md`,
             `/handson/webrtc.md`,
             `/handson/flutter_for_web.md`,
-            `/handson/riverpod.md`
+            `/handson/riverpod.md`,
+            `/handson/account.md`
           ]
         }
       ]
