@@ -1,5 +1,7 @@
 # 通話アプリ (WebRTC)
 
+<HistoryTags :tags="['Flutter', 'Agora', 'WebRTC']" />
+
 当日までに以下の準備を進めてください。
 
 [レジュメ](https://github.com/YujiOnishi/WebRtc_flutter_handson/)

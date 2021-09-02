@@ -1,5 +1,7 @@
 # 辞書アプリ
 
+<HistoryTags :tags="['Flutter', 'Firebase']" />
+
 当日までに以下の準備を進めてください。
 
 [レジュメ](https://github.com/YujiOnishi/dictionary_hands_on_hinagata/)

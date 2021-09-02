@@ -1,5 +1,7 @@
 # 写真編集アプリ
 
+<HistoryTags :tags="['Flutter']" />
+
 当日までに以下の準備を進めてください。
 
 [レジュメ](https://github.com/YujiOnishi/flutter_picture_edit_hands_on/)

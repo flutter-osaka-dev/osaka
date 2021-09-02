@@ -1,5 +1,7 @@
 # Atomic Design (Flutter for Web)
 
+<HistoryTags :tags="['Flutter for Web', 'Flutter', 'Atomic Design']" />
+
 当日までに [アプリ起動](#アプリ起動) まで以下の準備を進めてください。
 
 雛型コードをダウンロードし AndroidStudio (Mac をお使いの方は IntelliJ) で開き、レジュメと YoutubeLive の進行に応じてレジュメコードを参考に貼り付けアプリの完成を目指す。

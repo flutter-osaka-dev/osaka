@@ -1,5 +1,7 @@
 # 家計簿アプリ
 
+<HistoryTags :tags="['Flutter', 'Google Spreadsheet', 'Google Apps Script']" />
+
 ## 開発環境に必要なもの一覧
 
 <Environment />

@@ -1,4 +1,6 @@
-# Riverpod (Flutter for Web)
+# 人狼ゲーム
+
+<HistoryTags :tags="['Flutter for Web', 'Flutter', 'Riverpod']" />
 
 当日までに [アプリ起動](#アプリ起動) まで以下の準備を進めてください。
 
