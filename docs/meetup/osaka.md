@@ -4,7 +4,7 @@
 2021/05/22 (Sat)
 
 ### Flutter Web に HTML 要素を貼る
-高田晴彦 さん / [Flutter Web に HTML 要素を貼る](https://www.docswell.com/s/tfandkusu/NK6475-FlutterWebHtmlElement)
+高田晴彦さん / [Flutter Web に HTML 要素を貼る](https://www.docswell.com/s/tfandkusu/NK6475-FlutterWebHtmlElement)
 
 <YouTubeVideo video-id="UKqtwRLYjss" />
 
@@ -13,7 +13,7 @@
 -->
 
 ### Button のスタイリング完全に理解した
-菊池絋 さん / [Button スタイリング完全に理解した](https://docs.google.com/presentation/d/11ZpVdRknk-CufSIxmRN86Iej3rfWNONQ15pzniNKWi8/edit#slide=id.p)
+菊池絋さん / [Button スタイリング完全に理解した](https://docs.google.com/presentation/d/11ZpVdRknk-CufSIxmRN86Iej3rfWNONQ15pzniNKWi8/edit#slide=id.p)
 
 <YouTubeVideo video-id="3T_cRn3sQiI" />
 
@@ -40,7 +40,7 @@ Kenichi Kambara さん / [Getting Started with FlutterFlow](https://speakerdeck.
 -->
 
 ### Flutter を始めたらこれだけはしておけ 8 選 ... のうち 3 つ
-朝日大樹 さん / [プロジェクトを作ったら脳死でやっておきたい8個の設定](https://blog.dalt.me/2708)
+朝日大樹さん / [プロジェクトを作ったら脳死でやっておきたい8個の設定](https://blog.dalt.me/2708)
 
 <YouTubeVideo video-id="ydQivPOon6g" />
 
@@ -49,7 +49,7 @@ Kenichi Kambara さん / [Getting Started with FlutterFlow](https://speakerdeck.
 -->
 
 ### I/O Photobooth の Web カメラ・プラグインをハックする
-兼高理恵 さん / [I/O Photobooth の Web カメラ・プラグインをハックする](https://drive.google.com/file/d/15eCW59_PTBNwYQPZsNFkNAuva5RKpXzP/view)
+兼高理恵さん / [I/O Photobooth の Web カメラ・プラグインをハックする](https://drive.google.com/file/d/15eCW59_PTBNwYQPZsNFkNAuva5RKpXzP/view)
 
 <YouTubeVideo video-id="zaHBqWQDzvs" />
 
@@ -58,7 +58,7 @@ Kenichi Kambara さん / [Getting Started with FlutterFlow](https://speakerdeck.
 -->
 
 ### Flutter パッケージを作りました
-中條剛 さん / [Flutter パッケージを作りました](https://docs.google.com/presentation/d/1YssRkNYTwwkUCX826B6l6xI2B-lUWN94-Zzg0NxdBMc/edit#slide=id.p)
+中條剛さん / [Flutter パッケージを作りました](https://docs.google.com/presentation/d/1YssRkNYTwwkUCX826B6l6xI2B-lUWN94-Zzg0NxdBMc/edit#slide=id.p)
 
 <YouTubeVideo video-id="Ycpo2Dq3qKs" />
 
