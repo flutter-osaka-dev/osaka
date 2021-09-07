@@ -12,7 +12,7 @@
 
 [レジュメ](https://github.com/YujiOnishi/flutter_picture_edit_hands_on/) と [解説書](https://docs.google.com/spreadsheets/d/1cLwwOs4PRPbpie5YzTEpW32TE2soMQdiXD6O2caTT0U/edit#gid=2052184094) を合わせてご確認いただければ。
 
-<YouTubeVideo video-id="0H4hc291t5A" />
+<YouTubeVideo video-id="0H4hc291t5A" title="Flutter Handson Osaka #4" />
 
 <!--
 [https://www.youtube.com/watch?v=0H4hc291t5A](https://www.youtube.com/watch?v=0H4hc291t5A)

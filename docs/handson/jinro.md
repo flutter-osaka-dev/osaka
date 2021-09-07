@@ -64,7 +64,7 @@
 
 ### 1. 1章
 
-<YouTubeVideo video-id="eL2I-gufoEY" />
+<YouTubeVideo video-id="eL2I-gufoEY" title="人狼ゲーム 1章" />
 
 <!--
 [https://www.youtube.com/watch?v=eL2I-gufoEY](https://www.youtube.com/watch?v=eL2I-gufoEY)
@@ -72,7 +72,7 @@
 
 ### 2. 2章
 
-<YouTubeVideo video-id="W6XyGio32JA" />
+<YouTubeVideo video-id="W6XyGio32JA" title="人狼ゲーム 2章" />
 
 <!--
 [https://www.youtube.com/watch?v=W6XyGio32JA](https://www.youtube.com/watch?v=W6XyGio32JA)
@@ -80,7 +80,7 @@
 
 ### 3. 3章
 
-<YouTubeVideo video-id="7lDicr-8luw" />
+<YouTubeVideo video-id="7lDicr-8luw" title="人狼ゲーム 3章" />
 
 <!--
 [https://www.youtube.com/watch?v=7lDicr-8luw](https://www.youtube.com/watch?v=7lDicr-8luw)
@@ -88,7 +88,7 @@
 
 ### 4. 4章
 
-<YouTubeVideo video-id="GoMt1jHBeFw" />
+<YouTubeVideo video-id="GoMt1jHBeFw" title="人狼ゲーム 4章" />
 
 <!--
 [https://www.youtube.com/watch?v=GoMt1jHBeFw](https://www.youtube.com/watch?v=GoMt1jHBeFw)
@@ -96,7 +96,7 @@
 
 ### 5. 5章
 
-<YouTubeVideo video-id="cTP144brMmw" />
+<YouTubeVideo video-id="cTP144brMmw" title="人狼ゲーム 5章" />
 
 <!--
 [https://www.youtube.com/watch?v=cTP144brMmw](https://www.youtube.com/watch?v=cTP144brMmw)
