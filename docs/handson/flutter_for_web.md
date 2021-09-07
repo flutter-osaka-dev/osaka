@@ -64,7 +64,7 @@
 
 ### 1. 1章
 
-<YouTubeVideo video-id="koMMSSQHjOU" />
+<YouTubeVideo video-id="koMMSSQHjOU" title="Atomic Design 1章" />
 
 <!--
 [https://www.youtube.com/watch?v=koMMSSQHjOU](https://www.youtube.com/watch?v=koMMSSQHjOU)
@@ -72,7 +72,7 @@
 
 ### 2. 2章
 
-<YouTubeVideo video-id="rBtnmLidjes" />
+<YouTubeVideo video-id="rBtnmLidjes" title="Atomic Design 2章" />
 
 <!--
 [https://www.youtube.com/watch?v=rBtnmLidjes](https://www.youtube.com/watch?v=rBtnmLidjes)
@@ -80,7 +80,7 @@
 
 ### 3. 3章
 
-<YouTubeVideo video-id="2agTS7ffo0s" />
+<YouTubeVideo video-id="2agTS7ffo0s" title="Atomic Design 3章" />
 
 <!--
 [https://www.youtube.com/watch?v=2agTS7ffo0s](https://www.youtube.com/watch?v=2agTS7ffo0s)
@@ -88,7 +88,7 @@
 
 ### 4. 4章
 
-<YouTubeVideo video-id="q7pxC7xtCI4" />
+<YouTubeVideo video-id="q7pxC7xtCI4" title="Atomic Design 4章" />
 
 <!--
 [https://www.youtube.com/watch?v=q7pxC7xtCI4](https://www.youtube.com/watch?v=q7pxC7xtCI4)
@@ -96,7 +96,7 @@
 
 ### 5. 5章
 
-<YouTubeVideo video-id="FK5OtLrajkk" />
+<YouTubeVideo video-id="FK5OtLrajkk" title="Atomic Design 5章" />
 
 <!--
 [https://www.youtube.com/watch?v=FK5OtLrajkk](https://www.youtube.com/watch?v=FK5OtLrajkk)

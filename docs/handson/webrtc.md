@@ -12,7 +12,7 @@
 
 [レジュメ](https://github.com/YujiOnishi/WebRtc_flutter_handson_handout/) と [解説書](https://docs.google.com/spreadsheets/d/1LvBX3iR5ZOpBjU6mrn1zf0us4KTxKG51ZEKxSl0wTBY/edit#gid=2031444284https://docs.google.com/spreadsheets/d/1LvBX3iR5ZOpBjU6mrn1zf0us4KTxKG51ZEKxSl0wTBY/edit#gid=2031444284) を合わせてご確認いただければ。
 
-<YouTubeVideo video-id="tfoLJdzAWfk" />
+<YouTubeVideo video-id="tfoLJdzAWfk" title="Flutter Handson Osaka #5" />
 
 <!--
 [https://www.youtube.com/watch?v=tfoLJdzAWfk](https://www.youtube.com/watch?v=tfoLJdzAWfk)

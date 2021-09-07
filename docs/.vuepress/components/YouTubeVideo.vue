@@ -1,23 +1,23 @@
 <template>
-  <YouTube :src="`https://www.youtube.com/watch?v=${videoId}`" @ready="onReady" ref="youtube" />
+  <LiteYouTubeEmbed :id="videoId" :title="title" />
 </template>
 
 <script lang="ts">
-import YouTube from 'vue3-youtube'
+import LiteYouTubeEmbed from 'vue-lite-youtube-embed'
+import 'vue-lite-youtube-embed/dist/style.css'
 
 export default {
   components: {
-    YouTube
+    LiteYouTubeEmbed
   },
   props: {
     videoId: {
       type: String,
       default: ''
-    }
-  },
-  methods: {
-    onReady() {
-      // this.$refs.youtube.playVideo()
+    },
+    title: {
+      type: String,
+      default: ''
     }
   }
 }
