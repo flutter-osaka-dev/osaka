@@ -39,15 +39,15 @@
 
 2.2 `Flutter Application` を選択し、Next を押下。
 
-2.3 `Configure the new Flutter application` の Project name を `webrtc` へ変更。
+2.3 `Configure the new Flutter application` の Project name を `flutter_api_handson` へ変更。
 
-2.4 `Configure the new Flutter application` の Project location を hands_on フォルダに変更。
+2.4 `Configure the new Flutter application` の Project location を任意のフォルダに変更。
 
 2.5 `Set the package name` はそのまま `Finish` を押下して main.dart のコードが表示されれば成功です。
 
 ### 3. エミュレータ起動
 
-3.1 AndroidStudio で `webrtc` フォルダを開く。 (プロジェクト作成直後であれば自動で開いているはずです)
+3.1 AndroidStudio で `flutter_api_handson` フォルダを開く。 (プロジェクト作成直後であれば自動で開いているはずです)
 
 3.2 AVD マネージャーから作成したエミュレータを起動する。
 
