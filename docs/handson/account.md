@@ -72,4 +72,4 @@
 
 詳しくは API サーバのリポジトリをご確認いただければ幸いです。
 
-[https://github.com/jiyuujin/account-api](https://github.com/jiyuujin/account-api)
+[https://github.com/jiyuujin/account_app-api](https://github.com/jiyuujin/account_app-api)
