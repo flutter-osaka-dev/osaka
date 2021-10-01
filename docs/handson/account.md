@@ -57,27 +57,45 @@
 
 4.2 アプリが無事起動できたら完了です。ボタンを触って動かしたりなど、ウォーミングアップをしていただけると幸いです。
 
-## 困ったら
-
-[公式ドキュメントを読みましょう](http://flutter.io/)
-
 ## 配信動画
+
+2021/10/02 オンラインで開催した Flutter Handson Osaka [#9](https://flutter-jp.connpass.com/event/221064/) で当日配信した動画はこちらからご覧になれます。[レジュメ](https://github.com/YujiOnishi/flutter_api_handson_resume/) と [解説書]( https://docs.google.com/presentation/d/1J2qCXfNI5mJb_CwS-4O_52OArkYRXJEHJCtb1H2XGeE/edit#slide=id.gf4f900b2fe_0_9) を合わせてご確認いただければ。
 
 ### 1. 1章
 
-https://youtu.be/n5nbs5ZtmF8
+<YouTubeVideo video-id="n5nbs5ZtmF8" title="家計簿アプリ 1章" />
+
+<!--
+[https://www.youtube.com/watch?v=n5nbs5ZtmF8](https://www.youtube.com/watch?v=n5nbs5ZtmF8)
+-->
 
 ### 2. 2章
 
-https://youtu.be/d4wJ-c4XgvI
+<YouTubeVideo video-id="d4wJ-c4XgvI" title="家計簿アプリ 2章" />
+
+<!--
+[https://www.youtube.com/watch?v=d4wJ-c4XgvI](https://www.youtube.com/watch?v=d4wJ-c4XgvI)
+-->
 
 ### 3. 3章
 
-https://youtu.be/rNMyP-HhGL8
+<YouTubeVideo video-id="rNMyP-HhGL8" title="家計簿アプリ 3章" />
+
+<!--
+[https://www.youtube.com/watch?v=rNMyP-HhGL8](https://www.youtube.com/watch?v=rNMyP-HhGL8)
+-->
 
 ### 4. 4章
 
-https://youtu.be/Lwi8CQRybYo
+<YouTubeVideo video-id="Lwi8CQRybYo" title="家計簿アプリ 4章" />
+
+<!--
+[https://www.youtube.com/watch?v=Lwi8CQRybYo](https://www.youtube.com/watch?v=Lwi8CQRybYo)
+-->
+
+## 困ったら
+
+[公式ドキュメントを読みましょう](http://flutter.io/)
 
 ## 補足
 
