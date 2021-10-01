@@ -61,6 +61,24 @@
 
 [公式ドキュメントを読みましょう](http://flutter.io/)
 
+## 配信動画
+
+### 1. 1章
+
+https://youtu.be/n5nbs5ZtmF8
+
+### 2. 2章
+
+https://youtu.be/d4wJ-c4XgvI
+
+### 3. 3章
+
+https://youtu.be/rNMyP-HhGL8
+
+### 4. 4章
+
+https://youtu.be/Lwi8CQRybYo
+
 ## 補足
 
 ### API サーバ
