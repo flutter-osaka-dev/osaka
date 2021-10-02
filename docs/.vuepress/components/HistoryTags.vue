@@ -33,16 +33,9 @@ export default {
   font-size: 12px;
   font-weight: 500;
   line-height: 18px;
-  color: #2c2e2f;
-  background-color: transparent;
-  border: 1px solid #30363d;
+  color: #fefefe;
+  background-color: #186fc7;
+  border: 1px solid #186fc7;
   border-radius: 2em;
-}
-
-@media (prefers-color-scheme: dark) {
-  .tag {
-    color: #fefefe;
-    border: 1px solid #dedede;
-  }
 }
 </style>
