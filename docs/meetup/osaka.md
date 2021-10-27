@@ -1,5 +1,53 @@
 # ミートアップ
 
+## Flutter Meetup Osaka #8
+2021/10/27 (Wed)
+
+### 国内における Flutter 利用率の調査
+Hayami Shuhei さん
+
+<YouTubeVideo video-id="Qr0FYc0-Mgc" title="国内における Flutter 利用率の調査" />
+
+<!--
+[https://youtu.be/Qr0FYc0-Mgc](https://youtu.be/Qr0FYc0-Mgc)
+-->
+
+### 初心者によるあぷこん挑戦
+maysay さん
+
+<YouTubeVideo video-id="MKS6FzK3gqI" title="初心者によるあぷこん挑戦" />
+
+<!--
+[https://youtu.be/MKS6FzK3gqI](https://youtu.be/MKS6FzK3gqI)
+-->
+
+### 実践 Overlay
+kurogoma4d さん / [実践 Overlay](https://boring-johnson-2e5fc2.netlify.app/1)
+
+<YouTubeVideo video-id="4MKNZEYO4I0" title="実践 Overlay" />
+
+<!--
+[https://youtu.be/4MKNZEYO4I0](https://youtu.be/4MKNZEYO4I0)
+-->
+
+### Flutter での DI
+さくしんさん / [登壇中に出てくるソースコード](https://github.com/xaatw0/osaka20211027/tree/getit)
+
+<YouTubeVideo video-id="yLMyzM1R73w" title="Flutter での DI" />
+
+<!--
+[https://youtu.be/yLMyzM1R73w](https://youtu.be/yLMyzM1R73w)
+-->
+
+### acceptable パッケージを利用した Provider + StatefulWidget というパターン
+中條剛さん / [acceptable パッケージを利用した Provider + StatefulWidget というパターン](https://docs.google.com/presentation/d/1aed7FYyUwr8NrY5nXLMQmLXlWuITSAdfB65hf2O6Qps/edit#slide=id.p)
+
+<YouTubeVideo video-id="e4I2qQM3Z-s" title="acceptable パッケージを利用した Provider + StatefulWidget というパターン" />
+
+<!--
+[https://youtu.be/e4I2qQM3Z-s](https://youtu.be/e4I2qQM3Z-s)
+-->
+
 ## Flutter Meetup Osaka #7
 2021/05/22 (Sat)
 
