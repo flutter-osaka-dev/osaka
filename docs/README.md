@@ -67,8 +67,3 @@ Dart や Riverpod など各テーマで共有する。
   name="jiyuujin (Yuma Kitamura)"
   description="Web の改善を進めている Web デベロッパです。"
 />
-
-プロフィールサイト並びに技術ブログをご確認いただければ幸いです。
-
-- [Web Developer | Yuma Kitamura](https://yuma-kitamura.nekohack.me)
-- [Web猫ブログ](https://webneko.dev)
