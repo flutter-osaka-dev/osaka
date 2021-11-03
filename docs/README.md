@@ -59,11 +59,3 @@ Dart や Riverpod など各テーマで共有する。
   name="大西優司"
   description="学習塾運営会社役員やプログラマー、技術研修講師をやっております。"
 />
-
-### Yuma Kitamura
-
-<Profile
-  image="https://pbs.twimg.com/profile_images/1154037739035119620/IX0vq03C_400x400.jpg"
-  name="jiyuujin (Yuma Kitamura)"
-  description="Web の改善を進めている Web デベロッパです。"
-/>
