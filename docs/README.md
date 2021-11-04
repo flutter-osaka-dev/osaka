@@ -49,3 +49,21 @@ Dart や Riverpod など各テーマで共有する。
 
 #### zatsu
 上記チャンネル群に該当しないようなことを共有する。
+
+## コントリビュータのご紹介
+
+### 大西優司
+
+大西優司 (Yuji Onishi)
+
+<Profile image="https://pbs.twimg.com/profile_images/1057295751821160448/OZCsixgP_400x400.jpg" name="大西優司 (Yuji Onishi)" description="学習塾運営会社役員やプログラマー、技術研修講師をやっております。" />
+
+### jiyuujin
+
+jiyuujin (Yuma Kitamura)
+
+<Profile image="https://pbs.twimg.com/profile_images/1154037739035119620/IX0vq03C_400x400.jpg" name="jiyuujin (Yuma Kitamura)" description="Web の改善を進めている Web デベロッパです。" />
+
+### その他
+
+各メンターなど。
