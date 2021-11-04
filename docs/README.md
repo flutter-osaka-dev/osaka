@@ -64,6 +64,11 @@ jiyuujin (Yuma Kitamura)
 
 <Profile image="https://pbs.twimg.com/profile_images/1154037739035119620/IX0vq03C_400x400.jpg" name="jiyuujin (Yuma Kitamura)" description="Web の改善を進めている Web デベロッパです。" />
 
+プロフィールサイト並びに技術ブログをご確認いただければ幸いです。
+
+- [Web Developer | Yuma Kitamura](https://yuma-kitamura.nekohack.me)
+- [Web猫ブログ](https://webneko.dev)
+
 ### その他
 
 各メンターなど。
