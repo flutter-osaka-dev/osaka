@@ -2,6 +2,10 @@
 
 <HistoryTags :tags="['Flutter', 'Google Spreadsheet', 'Google Apps Script']" />
 
+当日までに [アプリ起動](#アプリ起動) を完了、以下を目指していただく。
+
+[@preview](https://github.com/YujiOnishi/flutter_api_handson)
+
 ## 開発環境に必要なもの一覧
 
 <Environment />
@@ -22,7 +26,7 @@
 
 ※ Flutter で Android のシミュレータが確認できる方は Flutter の項目を飛ばしてください。
 
-## サンプルアプリ起動
+## アプリ起動
 
 1. フォルダ作成
 2. プロジェクト作成
@@ -106,6 +110,6 @@
 - 簡易 DB に Google Spreadsheet
 - それと接続するエンドポイントに Google Apps Script
 
-詳しくは API サーバのリポジトリをご確認いただければ幸いです。
+詳しくは API サーバの [リポジトリ](https://github.com/jiyuujin/account_app-api) をご確認いただければ幸いです。
 
-[https://github.com/jiyuujin/account_app-api](https://github.com/jiyuujin/account_app-api)
+[@preview](https://github.com/jiyuujin/account_app-api)

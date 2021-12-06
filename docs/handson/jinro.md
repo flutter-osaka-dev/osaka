@@ -2,15 +2,16 @@
 
 <HistoryTags :tags="['Flutter for Web', 'Flutter', 'Riverpod']" />
 
-当日までに [アプリ起動](#アプリ起動) まで以下の準備を進めてください。
+当日までに [アプリ起動](#アプリ起動) を完了、以下を目指していただく。
+
+[@preview](https://github.com/YujiOnishi/riverpod_hinagata)
 
 雛型コードをダウンロードし AndroidStudio で開き、レジュメと YoutubeLive の進行に応じてレジュメコードを参考に貼り付けアプリの完成を目指す。
 
 ※ 開始時には、AndroidStudio と Flutter for Web の起動をお願いします (詳細は以下をご参照ください)
 
-- [雛形コード](https://github.com/YujiOnishi/riverpod_hinagata)
 - [レジュメ](https://docs.google.com/presentation/d/1A6UZ8JJccU4MdJvueHw-QoRw-ls3BA9JRU5vYyCXWRc/edit?usp=sharing)
-- [レジュメコード](https://github.com/YujiOnishi/riverpod_resume)
+- [雛形コード](https://github.com/YujiOnishi/riverpod_resume)
 
 ## 開発環境に必要なもの一覧
 
