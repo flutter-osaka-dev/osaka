@@ -7,6 +7,8 @@ footer: Created © 2020 Flutter Japan User Group - Flutter Osaka. All Rights Res
 
 [Flutter Japan User Group - connpass](https://flutter-jp.connpass.com/)
 
+[@preview](https://flutter-jp.connpass.com/)
+
 ## コミュニティ Slack のご紹介
 
 皆さま大歓迎です、 [招待リンク](https://join.slack.com/t/flutter-osaka/shared_invite/enQtODg3NTMxNTg4Njg5LTBhY2ZiMWFhOTI3NjZmN2IwZTc1MWY1Yzc3ODQ4NGRhYzQyNWM0NTg2NzY3OWEwNjk2MmMxMzQ4ZjFmNTZhNTI) よりご気軽に参加ください。

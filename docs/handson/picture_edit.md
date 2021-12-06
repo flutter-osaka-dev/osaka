@@ -2,22 +2,9 @@
 
 <HistoryTags :tags="['Flutter']" />
 
-当日までに以下の準備を進めてください。
+当日までに [アプリ起動](#アプリ起動) を完了、以下を目指していただく。
 
-[レジュメ](https://github.com/YujiOnishi/flutter_picture_edit_hands_on/)
-
-::: tip 配信動画。
-
-2020/06/20 オンラインで開催した Flutter Handson Osaka [#4](https://flutter-jp.connpass.com/event/175920/) で当日配信した動画はこちらからご覧になれます。
-
-[レジュメ](https://github.com/YujiOnishi/flutter_picture_edit_hands_on/) と [解説書](https://docs.google.com/spreadsheets/d/1cLwwOs4PRPbpie5YzTEpW32TE2soMQdiXD6O2caTT0U/edit#gid=2052184094) を合わせてご確認いただければ。
-
-<YouTubeVideo video-id="0H4hc291t5A" title="Flutter Handson Osaka #4" />
-
-<!--
-[https://www.youtube.com/watch?v=0H4hc291t5A](https://www.youtube.com/watch?v=0H4hc291t5A)
--->
-:::
+[@preview](https://github.com/YujiOnishi/flutter_picture_edit_hands_on/)
 
 ## 開発環境に必要なもの一覧
 
@@ -39,7 +26,7 @@
 
 ※ Flutter で Android のシミュレータが確認できる方は Flutter の項目を飛ばしてください。
 
-## サンプルアプリ起動
+## アプリ起動
 
 1. フォルダ作成
 2. プロジェクト作成
@@ -71,6 +58,18 @@
 ### 4,アプリ起動
 
 4-1. 上部の再生ボタンを押下しアプリを起動。 (結構時間がかかります)
+
+## 配信動画
+
+2020/06/20 オンラインで開催した Flutter Handson Osaka [#4](https://flutter-jp.connpass.com/event/175920/) で当日配信した動画はこちらからご覧になれます。
+
+[レジュメ](https://github.com/YujiOnishi/flutter_picture_edit_hands_on/) と [解説書](https://docs.google.com/spreadsheets/d/1cLwwOs4PRPbpie5YzTEpW32TE2soMQdiXD6O2caTT0U/edit#gid=2052184094) を合わせてご確認いただければ。
+
+<YouTubeVideo video-id="0H4hc291t5A" title="Flutter Handson Osaka #4" />
+
+<!--
+[https://www.youtube.com/watch?v=0H4hc291t5A](https://www.youtube.com/watch?v=0H4hc291t5A)
+-->
 
 ## 困ったら
 

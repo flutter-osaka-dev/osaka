@@ -2,22 +2,9 @@
 
 <HistoryTags :tags="['Flutter', 'Agora', 'WebRTC']" />
 
-当日までに以下の準備を進めてください。
+当日までに [アプリ起動](#アプリ起動) を完了、以下を目指していただく。
 
-[レジュメ](https://github.com/YujiOnishi/WebRtc_flutter_handson/)
-
-::: tip 配信動画。
-
-2020/08/21 オンラインで開催した Flutter Handson Osaka [#5](https://flutter-jp.connpass.com/event/180326/) で当日配信した動画はこちらからご覧になれます。
-
-[レジュメ](https://github.com/YujiOnishi/WebRtc_flutter_handson_handout/) と [解説書](https://docs.google.com/spreadsheets/d/1LvBX3iR5ZOpBjU6mrn1zf0us4KTxKG51ZEKxSl0wTBY/edit#gid=2031444284https://docs.google.com/spreadsheets/d/1LvBX3iR5ZOpBjU6mrn1zf0us4KTxKG51ZEKxSl0wTBY/edit#gid=2031444284) を合わせてご確認いただければ。
-
-<YouTubeVideo video-id="tfoLJdzAWfk" title="Flutter Handson Osaka #5" />
-
-<!--
-[https://www.youtube.com/watch?v=tfoLJdzAWfk](https://www.youtube.com/watch?v=tfoLJdzAWfk)
--->
-:::
+[@preview](https://github.com/YujiOnishi/WebRtc_flutter_handson/)
 
 ## 開発環境に必要なもの一覧
 
@@ -39,7 +26,7 @@
 
 ※ Flutter で Android のシミュレータが確認できる方は Flutter の項目を飛ばしてください。
 
-## サンプルアプリ起動
+## アプリ起動
 
 1. フォルダ作成
 2. プロジェクト作成
@@ -73,6 +60,18 @@
 4.1 上部の再生ボタンを押下しアプリを起動。 (結構時間がかかります)
 
 4.2 アプリが無事起動できたら完了です。ボタンを触って動かしたりなど、ウォーミングアップをしていただけると幸いです。
+
+## 配信動画
+
+2020/08/21 オンラインで開催した Flutter Handson Osaka [#5](https://flutter-jp.connpass.com/event/180326/) で当日配信した動画はこちらからご覧になれます。
+
+[レジュメ](https://github.com/YujiOnishi/WebRtc_flutter_handson_handout/) と [解説書](https://docs.google.com/spreadsheets/d/1LvBX3iR5ZOpBjU6mrn1zf0us4KTxKG51ZEKxSl0wTBY/edit#gid=2031444284https://docs.google.com/spreadsheets/d/1LvBX3iR5ZOpBjU6mrn1zf0us4KTxKG51ZEKxSl0wTBY/edit#gid=2031444284) を合わせてご確認いただければ。
+
+<YouTubeVideo video-id="tfoLJdzAWfk" title="Flutter Handson Osaka #5" />
+
+<!--
+[https://www.youtube.com/watch?v=tfoLJdzAWfk](https://www.youtube.com/watch?v=tfoLJdzAWfk)
+-->
 
 ## 困ったら
 

@@ -4,7 +4,7 @@
 
 当日までに以下の準備を進めてください。
 
-[レジュメ](https://github.com/YujiOnishi/dictionary_hands_on_hinagata/)
+[@preview](https://github.com/YujiOnishi/dictionary_hands_on_hinagata/)
 
 ## 開発環境に必要なもの一覧
 
