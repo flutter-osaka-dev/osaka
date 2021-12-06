@@ -3,7 +3,7 @@ import type { DefaultThemeOptions } from 'vuepress'
 import path from 'path'
 
 export default defineUserConfig<DefaultThemeOptions>({
-  title: `Flutter Osaka | ドキュメント一覧`,
+  title: `Flutter Meetup Osaka`,
   description: `ミートアップやハンズオンでご紹介のあった資料を中心に記録しています。`,
   head: [
     [
@@ -11,7 +11,7 @@ export default defineUserConfig<DefaultThemeOptions>({
       {
         hid: `description`,
         name: `description`,
-        content: `ミートアップやハンズオンでご紹介のあった資料を中心に記録しています。`
+        content: `Flutter Meetup Osaka でご紹介のあった資料を中心に記録しています。`
       }
     ],
     [
@@ -19,7 +19,7 @@ export default defineUserConfig<DefaultThemeOptions>({
       {
         hid: `title`,
         name: `title`,
-        content: `Flutter Japan User Group (Osaka) | ドキュメント一覧`
+        content: `Flutter Meetup Osaka`
       }
     ],
     [
@@ -35,7 +35,7 @@ export default defineUserConfig<DefaultThemeOptions>({
       {
         hid: `og:description`,
         name: `og:description`,
-        content: `ミートアップやハンズオンでご紹介のあった資料を中心に記録しています。`
+        content: `Flutter Meetup Osaka でご紹介のあった資料を中心に記録しています。`
       }
     ],
     [
@@ -43,7 +43,7 @@ export default defineUserConfig<DefaultThemeOptions>({
       {
         hid: `og:title`,
         name: `og:title`,
-        content: `Flutter Japan User Group (Osaka) | ドキュメント一覧`
+        content: `Flutter Meetup Osaka`
       }
     ],
     [
@@ -59,7 +59,7 @@ export default defineUserConfig<DefaultThemeOptions>({
       {
         hid: `og:image`,
         name: `og:image`,
-        content: ``
+        content: `https://flutter-osaka.netlify.app/top.jpg`
       }
     ],
     [
@@ -67,7 +67,7 @@ export default defineUserConfig<DefaultThemeOptions>({
       {
         hid: `twitter:description`,
         name: `twitter:description`,
-        content: `ミートアップやハンズオンでご紹介のあった資料を中心に記録しています。`
+        content: `Flutter Meetup Osaka でご紹介のあった資料を中心に記録しています。`
       }
     ],
     [
@@ -75,7 +75,7 @@ export default defineUserConfig<DefaultThemeOptions>({
       {
         hid: `twitter:title`,
         name: `twitter:title`,
-        content: `Flutter Japan User Group (Osaka) | ドキュメント一覧`
+        content: `Flutter Meetup Osaka`
       }
     ],
     [
@@ -83,41 +83,41 @@ export default defineUserConfig<DefaultThemeOptions>({
       {
         hid: `twitter:card`,
         name: `twitter:card`,
-        content: `summary` // ex: summary, summary_large_image
+        content: `summary_large_image` // ex: summary, summary_large_image
       }
     ],
-    // [
-    //   `meta`,
-    //   {
-    //     hid: `twitter:site`,
-    //     name: `twitter:site`,
-    //     content: ``
-    //   }
-    // ],
-    // [
-    //   `meta`,
-    //   {
-    //     hid: `twitter:creator`,
-    //     name: `twitter:creator`,
-    //     content: ``
-    //   }
-    // ],
-    // [
-    //   `meta`,
-    //   {
-    //     hid: `twitter:site`,
-    //     name: `twitter:site`,
-    //     content: ``
-    //   }
-    // ],
-    // [
-    //   `meta`,
-    //   {
-    //     hid: `twitter:image`,
-    //     name: `twitter:image`,
-    //     content: ``
-    //   }
-    // ],
+    [
+      `meta`,
+      {
+        hid: `twitter:site`,
+        name: `twitter:site`,
+        content: `@jiyuujin`
+      }
+    ],
+    [
+      `meta`,
+      {
+        hid: `twitter:creator`,
+        name: `twitter:creator`,
+        content: `@jiyuujin`
+      }
+    ],
+    [
+      `meta`,
+      {
+        hid: `twitter:site`,
+        name: `twitter:site`,
+        content: `@jiyuujin`
+      }
+    ],
+    [
+      `meta`,
+      {
+        hid: `twitter:image`,
+        name: `twitter:image`,
+        content: `https://flutter-osaka.netlify.app/top.jpg`
+      }
+    ],
     [
       `script`,
       {
