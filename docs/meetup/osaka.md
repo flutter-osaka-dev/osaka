@@ -1,5 +1,62 @@
 # ミートアップ
 
+## Flutter Meetup Tokyo #17 & Flutter Meetup Osaka #9
+2022/01/14 (Fri)
+
+[Flutter Meetup Tokyo](https://www.meetup.com/ja-JP/flutter-meetup-tokyo/) / [Flutter Meetup Osaka](https://www.meetup.com/ja-JP/flutter-meetup-osaka/) は昨年、共に [Flutter Meetup Network](https://www.meetup.com/ja-JP/pro/flutter/) へ加入したご縁もあって、この度 Flutter Meetup Tokyo と共催させていただいた。
+
+::: tip Tokyo/Osaka チャンネル登録よろしくお願いいたします
+
+- [Flutter Meetup Tokyo](https://www.youtube.com/channel/UCuxMTyir8TUq0qO6nUvjhPw)
+- [Flutter Meetup Osaka](https://www.youtube.com/channel/UChmWPiBWf1oMfR14iYsihhw)
+
+:::
+
+### カウンターアプリを使ったクリーンアーキテクチャ入門
+中條剛さん / [カウンターアプリを使ったクリーンアーキテクチャ入門](https://docs.google.com/presentation/d/19bD1C8uIuZEPNmq6mqCvcGOTQjkKTGSSz19kZrKeS3w/edit#slide=id.p)
+
+<YouTubeVideo video-id="epgdJH70rX4" title="カウンターアプリを使ったクリーンアーキテクチャ入門" />
+
+<!--
+[https://youtu.be/epgdJH70rX4](https://youtu.be/epgdJH70rX4)
+-->
+
+### Flutter の国際化対応
+さくしんさん / [【2021 年 12 月版】Flutter の多言語化対応のベストプラクティスとハマりどころ](http://flutter.salon/flutter/l10n/)
+
+<YouTubeVideo video-id="sjshkiechAQ" title="Flutter の国際化対応" />
+
+<!--
+[https://youtu.be/sjshkiechAQ](https://youtu.be/sjshkiechAQ)
+-->
+
+### 視覚障害者にとってのスマートホンと Flutter
+yama_1983 さん / [Flutter で Semantics クラスを使ってコンテキストメニューを作成](https://qiita.com/yama_1983/items/86b9f0fce5ba74ccf0be)
+
+<YouTubeVideo video-id="F9A_KMqAIwk" title="視覚障害者にとってのスマートホンと Flutter" />
+
+<!--
+[https://youtu.be/F9A_KMqAIwk](https://youtu.be/F9A_KMqAIwk)
+-->
+
+### 依存関係を静的解析しよう
+decoch さん / [依存関係を静的解析しよう](https://speakerdeck.com/decoch/yi-cun-guan-xi-wojing-de-jie-xi-siyou), [pub.dev | lint_strict_dependencies](https://pub.dev/packages/lint_strict_dependencies)
+
+<YouTubeVideo video-id="f4mq9gw8kyY" title="依存関係を静的解析しよう" />
+
+<!--
+[https://youtu.be/f4mq9gw8kyY](https://youtu.be/f4mq9gw8kyY)
+-->
+
+### Flutter の物理アニメーションで遊んでみる
+kurogome4d さん / [Flutter の物理アニメーションで遊んでみる](https://scrapbox.io/kurogoma4d-lab/Flutter%E3%81%AE%E7%89%A9%E7%90%86%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A7%E9%81%8A%E3%82%93%E3%81%A7%E3%81%BF%E3%82%8B)
+
+<YouTubeVideo video-id="KWEnUUm9f7w" title="Flutter の物理アニメーションで遊んでみる" />
+
+<!--
+[https://youtu.be/KWEnUUm9f7w](https://youtu.be/KWEnUUm9f7w)
+-->
+
 ## Flutter Meetup Osaka #8
 2021/10/27 (Wed)
 
