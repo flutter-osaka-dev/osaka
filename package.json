@@ -3,8 +3,8 @@
   "author": "yuukit <yuma.kitamura@ponos.co.jp>",
   "private": true,
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs",
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
     "eslint": "eslint ./ --ext js",
     "eslint:fix": "eslint ./ --ext js --fix",
     "textlint": "textlint ./docs/handson/** ./docs/meetup/**",
@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "vue-lite-youtube-embed": "1.0.4",
-    "vuepress": "2.0.0-beta.39"
+    "vitepress": "1.0.0-alpha.4"
   },
   "devDependencies": {
     "@nekohack/markdown-it-link-preview": "1.0.6",
