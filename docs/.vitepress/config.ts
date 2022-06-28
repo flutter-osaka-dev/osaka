@@ -1,8 +1,4 @@
-import { defineUserConfig } from 'vuepress'
-import type { DefaultThemeOptions } from 'vuepress'
-import path from 'path'
-
-export default defineUserConfig<DefaultThemeOptions>({
+export default {
   title: `Flutter Meetup Osaka`,
   description: `ミートアップやハンズオンでご紹介のあった資料を中心に記録しています。`,
   head: [
@@ -127,7 +123,6 @@ export default defineUserConfig<DefaultThemeOptions>({
     ]
   ],
   base: `/`,
-  clientAppEnhanceFiles: path.resolve(__dirname, `clientEnhanceApp.ts`),
   themeConfig: {
     repo: `flutter-osaka/docs`,
     editLinks: false,
@@ -135,57 +130,53 @@ export default defineUserConfig<DefaultThemeOptions>({
     nav: [
       {
         text: `ミートアップ`,
-        link: `/meetup/osaka.md`,
+        children: [
+          `/meetup/osaka.md`
+        ]
       }
     ],
     sidebarDepth: 3,
-    sidebar: {
-      '/': [
-        {
-          text: `Flutter Osaka`,
-          children: [
-            `/`,
-            `/meetup/osaka.md`,
-            `/handson/basic.md`,
-            `/handson/basic_web.md`,
-            `/handson/dictionary.md`,
-            `/handson/picture_edit.md`,
-            `/handson/webrtc.md`,
-            `/handson/flutter_for_web.md`,
-            `/handson/jinro.md`,
-            `/handson/account.md`
-          ]
-        }
-      ],
-      '/meetup/': [
-        {
-          text: `ミートアップ`,
-          children: [
-            `/meetup/osaka.md`
-          ]
-        }
-      ],
-      '/handson/': [
-        {
-          text: `ハンズオン`,
-          children: [
-            `/handson/basic.md`,
-            `/handson/basic_web.md`,
-            `/handson/dictionary.md`,
-            `/handson/picture_edit.md`,
-            `/handson/webrtc.md`,
-            `/handson/flutter_for_web.md`,
-            `/handson/jinro.md`,
-            `/handson/account.md`
-          ]
-        }
-      ]
-    }
+    sidebar: [
+      {
+        text: `Flutter Osaka`,
+        items: [
+          { text: 'トップ', link: '/' }
+        ]
+      },
+      {
+        text: `ミートアップ`,
+        items: [
+          { text: 'ミートアップ (Osaka)', link: '/meetup/osaka.md' }
+        ]
+      },
+      {
+        text: `ハンズオン`,
+        items: [
+          { text: 'Flutter 環境構築', link: '/handson/basic.md' },
+          { text: 'Flutter for Web 環境構築', link: '/handson/basic_web.md' },
+          { text: '辞書アプリ', link: '/handson/dictionary.md' },
+          { text: '写真編集アプリ', link: '/handson/picture_edit.md' },
+          { text: '通話アプリ (WebRTC)', link: '/handson/webrtc.md' },
+          { text: 'Atomic Design (Flutter for Web)', link: '/handson/flutter_for_web.md' },
+          { text: '人狼ゲーム (Flutter for Web)', link: '/handson/jinro.md' },
+          { text: '家計簿アプリ', link: '/handson/account.md' }
+        ]
+      }
+    ]
   },
   markdown: {
-    toc: { level: [1, 2] }
+    toc: { level: [1, 2] },
+    config: (md) => {
+      md.use(require('@nekohack/markdown-it-link-preview'))
+    }
   },
-  extendsMarkdown: (md) => {
-    md.use(require('@nekohack/markdown-it-link-preview'))
+  vueOptions: {
+    template: {
+      compilerOptions: {
+        isCustomElement: (tag) => {
+          return tag.toLowerCase().indexOf('youtubevideo') === 0;
+        }
+      }
+    }
   }
-})
+}
