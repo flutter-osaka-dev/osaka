@@ -8,9 +8,6 @@
           </a>
         </h3>
         <p>プログラムを書くために必要</p>
-        <a href="https://developer.android.com/studio/install?hl=ja" target="__blank" rel="noopener noreferrer">
-          <img :src="$withBase('/android_studio.png')" height="80px" />
-        </a>
       </div>
       <div class="env-list__item">
         <h3>
@@ -19,9 +16,6 @@
           </a>
         </h3>
         <p>モバイルアプリを作成するために必要</p>
-        <a href="https://flutter.dev/docs/get-started/install" target="__blank" rel="noopener noreferrer">
-          <img :src="$withBase('/flutter.png')" height="80px" />
-        </a>
       </div>
     </div>
   </div>
