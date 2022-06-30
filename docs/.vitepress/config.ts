@@ -159,7 +159,8 @@ export default {
           { text: '通話アプリ (WebRTC)', link: '/handson/webrtc.md' },
           { text: 'Atomic Design (Flutter for Web)', link: '/handson/flutter_for_web.md' },
           { text: '人狼ゲーム (Flutter for Web)', link: '/handson/jinro.md' },
-          { text: '家計簿アプリ', link: '/handson/account.md' }
+          { text: '家計簿アプリ', link: '/handson/account.md' },
+          { text: 'カレンダーアプリ', link: '/handson/calendar.md' }
         ]
       }
     ]
