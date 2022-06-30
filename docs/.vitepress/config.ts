@@ -130,8 +130,8 @@ export default {
     nav: [
       {
         text: `ミートアップ`,
-        children: [
-          `/meetup/osaka.md`
+        items: [
+          { text: 'ミートアップ (Osaka)', link: '/meetup/osaka.md' }
         ]
       }
     ],
