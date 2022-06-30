@@ -133,6 +133,20 @@ export default {
         items: [
           { text: 'ミートアップ (Osaka)', link: '/meetup/osaka.md' }
         ]
+      },
+      {
+        text: `ハンズオン`,
+        items: [
+          { text: 'Flutter 環境構築', link: '/handson/basic.md' },
+          { text: 'Flutter for Web 環境構築', link: '/handson/basic_web.md' },
+          { text: '辞書アプリ', link: '/handson/dictionary.md' },
+          { text: '写真編集アプリ', link: '/handson/picture_edit.md' },
+          { text: '通話アプリ (WebRTC)', link: '/handson/webrtc.md' },
+          { text: 'Atomic Design (Flutter for Web)', link: '/handson/flutter_for_web.md' },
+          { text: '人狼ゲーム (Flutter for Web)', link: '/handson/jinro.md' },
+          { text: '家計簿アプリ', link: '/handson/account.md' },
+          { text: 'カレンダーアプリ', link: '/handson/calendar.md' }
+        ]
       }
     ],
     sidebarDepth: 3,
