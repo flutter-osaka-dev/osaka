@@ -5,7 +5,7 @@
 
 [Flutter Meetup Tokyo](https://www.meetup.com/ja-JP/flutter-meetup-tokyo/) / [Flutter Meetup Osaka](https://www.meetup.com/ja-JP/flutter-meetup-osaka/) は昨年、共に [Flutter Meetup Network](https://www.meetup.com/ja-JP/pro/flutter/) へ加入したご縁もあって、この度 Flutter Meetup Tokyo と共催させていただいた。
 
-::: tip Tokyo/Osaka チャンネル登録よろしくお願いいたします
+::: tip Tokyo/Osaka チャンネル登録よろしくお願いいたします。
 
 - [Flutter Meetup Tokyo](https://www.youtube.com/channel/UCuxMTyir8TUq0qO6nUvjhPw)
 - [Flutter Meetup Osaka](https://www.youtube.com/channel/UChmWPiBWf1oMfR14iYsihhw)
@@ -61,7 +61,7 @@ kurogome4d さん / [Flutter の物理アニメーションで遊んでみる](h
 2021/10/27 (Wed)
 
 ### 国内における Flutter 利用率の調査
-Hayami Shuhei さん
+Hayami Shuhei さん。
 
 <YouTubeVideo video-id="Qr0FYc0-Mgc" title="国内における Flutter 利用率の調査" />
 
@@ -70,7 +70,7 @@ Hayami Shuhei さん
 -->
 
 ### 初心者によるあぷこん挑戦
-maysay さん
+maysay さん。
 
 <YouTubeVideo video-id="Yvh3boEaLBE" title="初心者によるあぷこん挑戦" />
 
