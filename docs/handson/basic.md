@@ -4,29 +4,29 @@
 
 ### 1. パスを通す
 
-1-1. `.bash_profile` を vi で開いて以下コマンドを叩く。
+`.bash_profile` を vi で開いて以下コマンドを叩きます。
 
 ```bash
-mkdir ~/development
+mkdir ~/project
 ```
 
-1-2. 以下を追加。
+`<USER>` を個別のユーザー名に置き換えて `PATH` を追加します。
 
 ```bash
-export PATH="$PATH:/Users/[User名に置き換えて[]を削除]/development/flutter/bin"
+export PATH="$PATH:/Users/<USER>/project/flutter/bin"
 ```
 
-1-3. path を更新して以下コマンドを叩く。
+`PATH` を更新して以下コマンドを叩きます。
 
 ```bash
 source ~/.bash_profile
 ```
 
-### 2. AndroidStudio のインストール
+### 2. エディタ (Android Studio / VS Code) のインストール
 
-2-1. [DOWNLOAD ANDROID STUDIO](https://developer.android.com/studio/?hl=ja) より任意の場所に `.dmg` をダウンロード。
+Android Studio は [こちら](https://developer.android.com/studio/?hl=ja) より任意の場所に `.dmg` をダウンロード。
 
-2-2. インストールウィザードの指示に従ってインストール。初回起動時に SDK のインストールウィザードが出るが Standard を選択肢デフォルトの設定でインストール。
+インストールウィザードの指示に従ってインストール。初回起動時に SDK のインストールウィザードが出るが Standard を選択肢デフォルトの設定でインストール。
 
 ### 3. OS 共通へ進む
 
@@ -36,19 +36,15 @@ source ~/.bash_profile
 
 ### 1. パスを通す
 
-以下の作業を `C:\Program Files` のようなアクセス許可が必要な場所で行うと失敗しますので注意してください。
+`C:\Program Files` のようにアクセス許可が必要な場所で行うと失敗する可能性があるので注意してください。
 
-1-1. C 直下に `src` フォルダ作成。
+C 直下に `project` フォルダを作成、ダウンロードした `C:\project` 直下に解凍します。そして `bin` フォルダを環境変数に追加します。
 
-1-2. 1-1 でダウンロードした `C:\src` 直下に解凍。
+### 2. エディタ (Android Studio / VS Code) のインストール
 
-1-3.bin フォルダを環境変数に追加。
+Android Studio は [こちら](https://developer.android.com/studio/?hl=ja) より任意の場所に `.exe` をダウンロード。
 
-### 2. AndroidStudio のインストール
-
-2-1. [DOWNLOAD ANDROID STUDIO](https://developer.android.com/studio/?hl=ja) より任意の場所に `.exe` をダウンロード。
-
-2-2. インストールウィザードの指示に従ってインストール。初回起動時に SDK のインストールウィザードが出るが `Standard` を選択しデフォルトの設定でインストール。
+インストールウィザードの指示に従ってインストール。初回起動時に SDK のインストールウィザードが出るが `Standard` を選択しデフォルトの設定でインストール。
 
 ::: warning HAXM のインストールでエラーが出る場合。
 
