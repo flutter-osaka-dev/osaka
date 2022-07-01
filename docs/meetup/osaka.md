@@ -3,7 +3,7 @@
 ## Flutter Meetup Tokyo #17 & Flutter Meetup Osaka #9
 2022/01/14 (Fri)
 
-[Flutter Meetup Tokyo](https://www.meetup.com/ja-JP/flutter-meetup-tokyo/) / [Flutter Meetup Osaka](https://www.meetup.com/ja-JP/flutter-meetup-osaka/) は昨年、共に [Flutter Meetup Network](https://www.meetup.com/ja-JP/pro/flutter/) へ加入したご縁もあって、この度 Flutter Meetup Tokyo と共催させていただいた。
+[Flutter Tokyo](https://www.meetup.com/ja-JP/flutter-meetup-tokyo/) / [Flutter Osaka](https://www.meetup.com/ja-JP/flutter-osaka/) は昨年、共に [Flutter Meetup Network](https://www.meetup.com/ja-JP/pro/flutter/) へ加入したご縁もあって共催させていただいた。
 
 ::: tip Tokyo/Osaka チャンネル登録よろしくお願いいたします。
 
