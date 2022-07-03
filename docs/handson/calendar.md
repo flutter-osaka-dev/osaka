@@ -4,6 +4,10 @@
 
 今回は以下を目指していただきます。
 
+[@preview](https://zenn.dev/chooyan/books/calendar-package)
+
+なお、今回は Zenn book を利用しています。
+
 ### ロジック
 
 カレンダーのロジックを置きます。
@@ -85,7 +89,13 @@ Flutter のテンプレートリポジトリを作成しています。
 
 ## 配信動画
 
-TDD
+2022/07/02 オンラインで開催した Flutter Handson Osaka [#10](https://flutter-jp.connpass.com/event/250745/) で当日配信した動画はこちらからご覧になれます。
+
+<YouTubeVideo video-id="dlAKk1VAQyA" title="カレンダーアプリ" />
+
+<!--
+[https://www.youtube.com/watch?v=dlAKk1VAQyA](https://www.youtube.com/watch?v=dlAKk1VAQyA)
+-->
 
 ## 困ったら
 
