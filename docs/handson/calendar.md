@@ -81,12 +81,6 @@ source ~/.bash_profile
 
 C 直下に `project` フォルダを作成、ダウンロードした `C:\project` 直下に解凍します。そして `bin` フォルダを環境変数に追加します。
 
-## 環境構築を少し楽にする
-
-Flutter のテンプレートリポジトリを作成しています。
-
-[@preview](https://github.com/jiyuujin/template_flutter/tree/release/flutter3.0.0-stable)
-
 ## 配信動画
 
 2022/07/02 オンラインで開催した Flutter Handson Osaka [#10](https://flutter-jp.connpass.com/event/250745/) で当日配信した動画はこちらからご覧になれます。
