@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "vue-lite-youtube-embed": "1.0.4",
-    "vitepress": "1.0.0-alpha.4"
+    "vitepress": "1.0.0-alpha.5"
   },
   "devDependencies": {
     "@nekohack/markdown-it-link-preview": "1.0.6",
