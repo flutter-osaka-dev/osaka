@@ -122,7 +122,7 @@ export default {
       }
     ]
   ],
-  base: `/osaka/`,
+  base: process.env.VITE_PREVIEW_BUILD ? `/` : `/osaka/`,
   themeConfig: {
     repo: `flutter-osaka/docs`,
     editLinks: false,

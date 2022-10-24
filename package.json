@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "vitepress dev docs",
+    "preview-build": "VITE_PREVIEW_BUILD=true vitepress build docs",
     "build": "vitepress build docs",
     "eslint": "eslint ./ --ext js",
     "eslint:fix": "eslint ./ --ext js --fix",
