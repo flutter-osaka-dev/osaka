@@ -122,7 +122,7 @@ export default {
       }
     ]
   ],
-  base: `/`,
+  base: `/osaka/`,
   themeConfig: {
     repo: `flutter-osaka/docs`,
     editLinks: false,
