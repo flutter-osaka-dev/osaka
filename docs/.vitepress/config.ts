@@ -145,7 +145,8 @@ export default {
           { text: 'Atomic Design (Flutter for Web)', link: '/handson/flutter_for_web.md' },
           { text: '人狼ゲーム (Flutter for Web)', link: '/handson/jinro.md' },
           { text: '家計簿アプリ', link: '/handson/account.md' },
-          { text: 'カレンダーアプリ', link: '/handson/calendar.md' }
+          { text: 'カレンダーアプリ', link: '/handson/calendar.md' },
+          { text: 'Supabase 連携', link: '/handson/supabase.md' }
         ]
       }
     ],
@@ -174,7 +175,8 @@ export default {
           { text: 'Atomic Design (Flutter for Web)', link: '/handson/flutter_for_web.md' },
           { text: '人狼ゲーム (Flutter for Web)', link: '/handson/jinro.md' },
           { text: '家計簿アプリ', link: '/handson/account.md' },
-          { text: 'カレンダーアプリ', link: '/handson/calendar.md' }
+          { text: 'カレンダーアプリ', link: '/handson/calendar.md' },
+          { text: 'Supabase 連携', link: '/handson/supabase.md' }
         ]
       }
     ]
