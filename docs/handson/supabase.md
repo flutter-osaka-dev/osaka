@@ -65,7 +65,7 @@ C 直下に `project` フォルダを作成、ダウンロードした `C:\proje
 
 ## 配信動画
 
-2023/04/20 オンラインで開催した Flutter Handson Osaka [#11](https://flutter-jp.connpass.com/event/250745/) で当日配信した動画はこちらからご覧になれます。
+2023/04/20 オンラインで開催した Flutter Handson Osaka [#11](https://flutter-jp.connpass.com/event/276470/) で当日配信した動画はこちらからご覧になれます。
 
 TBD
 
