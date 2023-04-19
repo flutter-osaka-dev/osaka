@@ -6,7 +6,7 @@
 
 [@preview](https://zenn.dev/dshukertjr/books/flutter-supabase-chat)
 
-なお、今回は Zenn book を利用しています。
+なお、今回も前回に続き Zenn book を利用しています。
 
 ## Flutter 環境構築
 
