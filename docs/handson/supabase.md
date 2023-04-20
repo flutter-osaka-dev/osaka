@@ -67,7 +67,11 @@ C 直下に `project` フォルダを作成、ダウンロードした `C:\proje
 
 2023/04/20 オンラインで開催した Flutter Handson Osaka [#11](https://flutter-jp.connpass.com/event/276470/) で当日配信した動画はこちらからご覧になれます。
 
-TBD
+<YouTubeVideo video-id="5nDzDEsqcIU" title="Supabase チャットアプリ" />
+
+<!--
+[https://www.youtube.com/watch?v=5nDzDEsqcIU](https://www.youtube.com/watch?v=5nDzDEsqcIU)
+-->
 
 ## 困ったら
 
