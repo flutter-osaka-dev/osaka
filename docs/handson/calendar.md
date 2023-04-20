@@ -91,6 +91,12 @@ C 直下に `project` フォルダを作成、ダウンロードした `C:\proje
 [https://www.youtube.com/watch?v=dlAKk1VAQyA](https://www.youtube.com/watch?v=dlAKk1VAQyA)
 -->
 
+## ふりかえりの記事
+
+[@preview](https://blog.nekohack.me/posts/answer-to-learn-calendar-app-on-flutter)
+
+jiyuujin ([Yuma Kitamura](https://yuma-kitamura.nekohack.me/)) 自ら、ふりかえりのブログを書かせていただきました。こちらも合わせて、ご気軽にチェックいただければ幸いです。
+
 ## 困ったら
 
 [公式ドキュメントを読みましょう](http://flutter.io/)
