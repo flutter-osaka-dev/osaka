@@ -104,7 +104,7 @@ flutter doctor --android-licenses
 
 ![](https://i.imgur.com/Zok0WgT.jpg)
 
-3-3. システムイメージの API レベルを求められるので `29(Q)` を選択し `next` を押下。この際、SystemImage が未ダウンロードであれば、ReleaseName に `Download` と表示されているはずなのでダウンロード。
+3-3. システムイメージの API レベルを求められるので `29(Q)` を選択し `next` を押下。この際、SystemImage が未ダウンロードなら、ReleaseName に `Download` と表示されているのでダウンロード。
 
 ![](https://i.imgur.com/fQDeoIp.jpg)
 

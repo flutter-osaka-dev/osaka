@@ -93,9 +93,9 @@
 
 5-2. `Translate Text` を探してインストール。
 
-5-3. translation language for ～の設定を `en,ja` に設定 (`fr` や `es`などをプラスしても問題ありません)
+5-3. translation language for ～の設定を `en,ja` に設定 (`fr` や `es` などをプラスしても問題ありません)
 
-5-4. collection path を `dictionary`と設定。
+5-4. collection path を `dictionary` と設定。
 
 5-5. input fieldname を `word` と設定。
 
