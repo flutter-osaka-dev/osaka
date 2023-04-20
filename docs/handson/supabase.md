@@ -73,6 +73,18 @@ C 直下に `project` フォルダを作成、ダウンロードした `C:\proje
 [https://www.youtube.com/watch?v=5nDzDEsqcIU](https://www.youtube.com/watch?v=5nDzDEsqcIU)
 -->
 
+## ふりかえりと ChatGPT を使ってみる記事
+
+[@preview](https://blog.nekohack.me/posts/chatgpt-flutter)
+
+::: tip
+
+Supabase チャット内で、いま流行りの ChatGPT を使えるようにするのも、そう難しくありません。
+
+:::
+
+jiyuujin ([Yuma Kitamura](https://yuma-kitamura.nekohack.me/)) 自ら、ふりかえりのブログを書かせていただきました。こちらも合わせて、ご気軽にチェックいただければ幸いです。
+
 ## 困ったら
 
 [公式ドキュメントを読みましょう](http://flutter.io/)
