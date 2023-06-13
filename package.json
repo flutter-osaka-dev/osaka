@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "@nekohack/markdown-it-link-preview": "1.0.7",
-    "@types/node": "18.16.17",
+    "@types/node": "18.16.18",
     "jsdom": "21.1.2",
     "textlint": "12.2.3",
     "textlint-rule-no-mix-dearu-desumasu": "5.0.0",
