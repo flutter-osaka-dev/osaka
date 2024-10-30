@@ -12,7 +12,7 @@
     "textlint:fix": "textlint ./docs/handson/** ./docs/meetup/** --fix"
   },
   "dependencies": {
-    "vue-lite-youtube-embed": "1.0.4",
+    "vue-lite-youtube-embed": "1.2.4",
     "vitepress": "1.0.0-alpha.5"
   },
   "devDependencies": {
